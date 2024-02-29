@@ -1,6 +1,6 @@
 {
     "code" : 200,
-	"app-version" : "1.0.6",
+	"app-version" : "1.0.7",
 	"update-notice" : "New Update Availabe.\nAdded Amoled Display Support for Big Clock",
 	"announcement" : "Added Quran Radio"
 }
