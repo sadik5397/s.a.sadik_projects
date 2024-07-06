@@ -1,0 +1,32 @@
+  <h2>Inspire Broadband Delivery Policy</h2>
+
+  <p>At Inspire Broadband, we are committed to providing you with a seamless and efficient delivery experience. This Delivery Policy outlines the procedures and expectations related to the delivery of our products and services. Your satisfaction is our priority, and we aim to ensure a smooth delivery process.</p>
+
+  <h3>Delivery Timeframes</h3>
+  <p>The delivery timeframe for our products and services may vary based on factors such as location, product availability, and any specific delivery instructions provided by the customer. We strive to provide accurate estimated delivery times, which will be communicated to you during the checkout process.</p>
+
+  <h3>Delivery Methods</h3>
+  <p>We utilize various delivery methods to ensure flexibility and convenience for our customers. The available delivery methods may include standard shipping, express shipping, and in some cases, electronic delivery for certain services. The specific delivery options will be presented to you during the ordering process.</p>
+
+  <h3>Delivery Charges</h3>
+  <p>Delivery charges, if applicable, will be clearly communicated to you before completing your purchase. These charges may vary based on the selected delivery method, location, and the nature of the product or service being delivered. Any additional fees or taxes will also be disclosed during the checkout process.</p>
+
+  <h3>Delivery Tracking</h3>
+  <p>For shipments that include tracking services, you will receive a tracking number and relevant details to monitor the status of your delivery. Tracking information will be provided through the selected communication channel (email, SMS, or customer portal), allowing you to stay informed about the progress of your delivery.</p>
+
+  <h3>Delivery Address Accuracy</h3>
+  <p>It is crucial to provide accurate and complete delivery address details during the ordering process. Inspire Broadband is not responsible for delivery issues arising from incorrect or incomplete address information provided by the customer. Please double-check your delivery address before finalizing your purchase.</p>
+
+  <h3>Delivery Notifications</h3>
+  <p>We may send notifications to update you on the status of your delivery. These notifications may include confirmation of dispatch, estimated delivery timeframes, and any unforeseen delays. It is important to monitor these notifications and contact our customer support team if you have any concerns.</p>
+
+  <h3>Acceptance of Delivery</h3>
+  <p>Upon receiving your delivery, please inspect the products or services for any visible damage or discrepancies. If you notice any issues, contact our customer support team immediately to report the problem. Signing for the delivery acknowledges that you have received the items in satisfactory condition unless noted otherwise.</p>
+
+  <h3>Contact Us</h3>
+  <p>If you have any questions, concerns, or requests regarding our Delivery Policy, please contact us at delivery@inspirebroadband.com. Our customer support team is available to assist you and provide clarification on any delivery-related matters.</p>
+
+  <h3>Changes to this Delivery Policy</h3>
+  <p>We reserve the right to update and modify our Delivery Policy. Any changes will be posted on this page, and it is your responsibility to review this policy periodically. Continued use of our services after any changes implies your acceptance of the updated policy.</p>
+
+  <p>Thank you for choosing Inspire Broadband. We appreciate your trust in our products and services, and we are dedicated to ensuring a reliable and efficient delivery process.</p>
