@@ -1,0 +1,41 @@
+      <h2>Inspire Broadband Privacy Policy</h2>
+
+        <p>Welcome to Inspire Broadband, where your privacy and security are our top priorities. This Privacy Policy outlines how we collect, use, disclose, and protect your personal information when you use our services. By accessing and
+          using Inspire Broadband, you consent to the terms outlined in this policy.</p>
+
+        <h3>Information We Collect</h3>
+        <p>When you sign up for our services, we may collect personal information such as your name, contact details, and billing information. We also gather information about your usage patterns and device interactions to improve our
+          services.</p>
+
+        <h3>How We Use Your Information</h3>
+        <p>We use the collected information to provide, maintain, and improve our services. This includes personalizing your experience, processing transactions, and sending important service-related communications. Your data helps us
+          understand user preferences and enhance the overall quality of our offerings.</p>
+
+        <h3>Information Sharing</h3>
+        <p>We do not sell, trade, or otherwise transfer your personal information to outside parties. However, we may share data with trusted third parties who assist us in delivering our services, provided they agree to keep this
+          information confidential.</p>
+
+        <h3>Security Measures</h3>
+        <p>We implement a variety of security measures to safeguard your personal information. This includes encryption, secure socket layer technology, and regular vulnerability scans. Our commitment is to ensure the confidentiality and
+          integrity of your data.</p>
+
+        <h3>Cookies and Tracking Technologies</h3>
+        <p>We use cookies and similar tracking technologies to enhance your browsing experience. Cookies are small files stored on your device that help us recognize you and remember your preferences. You can choose to disable cookies, but
+          this may affect certain functionalities of our services.</p>
+
+        <h3>Third-Party Links</h3>
+        <p>Our website may contain links to third-party websites. We are not responsible for the privacy practices or content of these external sites. We encourage you to review the privacy policies of any third-party sites you visit
+          through our platform.</p>
+
+        <h3>Children's Privacy</h3>
+        <p>Inspire Broadband does not knowingly collect personal information from children under the age of 13. If you are a parent or guardian and believe that your child has provided us with personal information, please contact us, and we
+          will take steps to delete such information.</p>
+
+        <h3>Changes to this Privacy Policy</h3>
+        <p>We reserve the right to update and modify our Privacy Policy. Any changes will be posted on this page, and it is your responsibility to review this policy periodically. Continued use of our services after any changes implies your
+          acceptance of the updated policy.</p>
+
+        <h3>Contact Us</h3>
+        <p>If you have any questions, concerns, or requests regarding our Privacy Policy, please contact us at privacy@inspirebroadband.com. We are dedicated to addressing your inquiries and ensuring the protection of your privacy.</p>
+
+        <p>Thank you for choosing Inspire Broadband. Your trust and satisfaction are of utmost importance to us.</p>
