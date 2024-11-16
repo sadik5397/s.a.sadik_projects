@@ -1,0 +1,2127 @@
+{
+    "items": [
+        {
+            "id": "11ec2da7-8b1b-42e0-b68e-1326f7a546ea",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Bongo Movies",
+            "contentType": "FEED",
+            "systemId": "cV7RPLAtMbG",
+            "slug": "bongo-movies",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/11ec2da7-8b1b-42e0-b68e-1326f7a546ea/034d218e-5281-4491-8e5d-997a035f5582.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/11ec2da7-8b1b-42e0-b68e-1326f7a546ea/6eb02b53-f450-4854-a7fd-eabe7d199298.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/11ec2da7-8b1b-42e0-b68e-1326f7a546ea/95d96af7-3477-4b4e-976c-cb0478a57818.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/11ec2da7-8b1b-42e0-b68e-1326f7a546ea/d7021220-d529-4e00-8856-a12130bc6f31.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/11ec2da7-8b1b-42e0-b68e-1326f7a546ea/501208a0-33f8-4e9d-bd8b-4f0d0ddc2389.jpg",
+                    "code": "HERO_TV"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/11ec2da7-8b1b-42e0-b68e-1326f7a546ea/6aa9182f-1d94-40a3-8908-8806876dac29.png",
+                    "code": "LOGO_LANDSCAPE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/11ec2da7-8b1b-42e0-b68e-1326f7a546ea/1287966f-8af0-4f40-8374-96ff981dd873.png",
+                    "code": "LOGO_SQUARE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/11ec2da7-8b1b-42e0-b68e-1326f7a546ea/be259af3-1f99-4e50-98e5-99eeccaefc64.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/11ec2da7-8b1b-42e0-b68e-1326f7a546ea/35329a05-9ca0-49be-9aad-796d0fb382ef.jpg",
+                    "code": "THUMB_PORTRAIT"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": false,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "11ec2da7-8b1b-42e0-b68e-1326f7a546ea",
+                "masterId": "11ec2da7-8b1b-42e0-b68e-1326f7a546ea",
+                "title": "Bongo Movies",
+                "systemId": "cV7RPLAtMbG",
+                "ownerId": "15208a35-b247-4f42-8915-7c7391e7500c",
+                "ownerName": "Bongo",
+                "ownerMasterId": "15208a35-b247-4f42-8915-7c7391e7500c",
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "1147837b-9769-4dfe-9c19-e42b848f6c04",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Michael - Gangster Michael",
+            "contentType": "VOD_SINGLE",
+            "systemId": "VV55wKCCjPF",
+            "slug": "michael-gangster-michael",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/304e0abb-86e4-4a15-bcc4-9e97d622e5c5/51bd1ee8-4217-45ba-b740-e6f5c7422ab1.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/304e0abb-86e4-4a15-bcc4-9e97d622e5c5/5d14d4ea-42be-4615-8579-7a1db3262175.jpg",
+                    "code": "HERO_TV"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/304e0abb-86e4-4a15-bcc4-9e97d622e5c5/96248fde-7dec-4044-9391-493ff2701a04.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/304e0abb-86e4-4a15-bcc4-9e97d622e5c5/fe2fc60f-14c3-4d85-ac2c-87263a8283b0.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/304e0abb-86e4-4a15-bcc4-9e97d622e5c5/dca0f932-7763-4404-ba9a-76115449259c.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/304e0abb-86e4-4a15-bcc4-9e97d622e5c5/f476f09b-d1a6-4195-8172-579c2f3adbeb.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/304e0abb-86e4-4a15-bcc4-9e97d622e5c5/9d509651-ffba-47f4-ab83-dd1de7ca4dad.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": true,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "1147837b-9769-4dfe-9c19-e42b848f6c04",
+                "masterId": "304e0abb-86e4-4a15-bcc4-9e97d622e5c5",
+                "title": "Michael - Gangster Michael",
+                "systemId": "VV55wKCCjPF",
+                "ownerId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "ownerName": "Aditya Movies & Entertainments (India) LLP",
+                "ownerMasterId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "acedbce9-6842-493d-bae2-3fc21b48ac11",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Ninnu Kori - Pallabi Tomar Jonno",
+            "contentType": "VOD_SINGLE",
+            "systemId": "RPA1WYBHwVF",
+            "slug": "ninnu-kori-pallabi-tomar-jonno",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/79fe4755-352c-4522-ba70-c8a3c12f93c9/3b36c521-02e5-4c01-8cc7-0c60c51ddf88.jpg",
+                    "code": "HERO_TV"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/79fe4755-352c-4522-ba70-c8a3c12f93c9/45dba409-d549-45b5-b276-db4e22a87caf.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/79fe4755-352c-4522-ba70-c8a3c12f93c9/4613b258-5c6b-48c5-968c-60a84e2e84dc.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/79fe4755-352c-4522-ba70-c8a3c12f93c9/7f114f92-2076-45e3-8d19-6b319c1a597f.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/79fe4755-352c-4522-ba70-c8a3c12f93c9/102489cb-968f-4319-a4db-2c2cbb59f0ff.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/79fe4755-352c-4522-ba70-c8a3c12f93c9/c6778948-d9e7-458d-be89-034fe4172b21.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/79fe4755-352c-4522-ba70-c8a3c12f93c9/0f0e551f-cbab-4176-a736-583ac14c0319.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": true,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "acedbce9-6842-493d-bae2-3fc21b48ac11",
+                "masterId": "79fe4755-352c-4522-ba70-c8a3c12f93c9",
+                "title": "Ninnu Kori - Pallabi Tomar Jonno",
+                "systemId": "RPA1WYBHwVF",
+                "ownerId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "ownerName": "Aditya Movies & Entertainments (India) LLP",
+                "ownerMasterId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "733a01d7-23a6-463a-a6f5-5f7a651f3ec4",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Love Story",
+            "contentType": "VOD_SINGLE",
+            "systemId": "2hamiT2uDTg",
+            "slug": "love-story",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/c016671e-0876-4a42-9096-07f653f74d7d/557e3057-e709-4a83-9c26-e166513b742f.jpg",
+                    "code": "HERO_TV"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/c016671e-0876-4a42-9096-07f653f74d7d/d94efa74-5a1f-49eb-9ba6-35ada8b7f986.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/c016671e-0876-4a42-9096-07f653f74d7d/7eff42c4-bcda-4ff8-9bca-d0441f694f04.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/c016671e-0876-4a42-9096-07f653f74d7d/a5894860-2d66-488e-a005-c79045b26771.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/c016671e-0876-4a42-9096-07f653f74d7d/b7e37d46-5396-4721-9ce0-ec1438568e76.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/c016671e-0876-4a42-9096-07f653f74d7d/bbeb816e-6d27-49af-b7eb-f36bbfeed385.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/c016671e-0876-4a42-9096-07f653f74d7d/b7a56204-807f-456c-a90c-f4deb1052bce.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": true,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "733a01d7-23a6-463a-a6f5-5f7a651f3ec4",
+                "masterId": "c016671e-0876-4a42-9096-07f653f74d7d",
+                "title": "Love Story",
+                "systemId": "2hamiT2uDTg",
+                "ownerId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "ownerName": "Aditya Movies & Entertainments (India) LLP",
+                "ownerMasterId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "293cf5dd-7e45-43f2-b4df-c2baa111502f",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Amigos - Doppel Dot Com",
+            "contentType": "VOD_SINGLE",
+            "systemId": "CBgcWXYPhDP",
+            "slug": "amigos-doppel-dot-com",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/670bfb60-a49c-4413-9157-24632315e305/12f36c36-50c7-401e-bc53-70cae66c27ae.jpg",
+                    "code": "HERO_TV"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/670bfb60-a49c-4413-9157-24632315e305/85d8ac3c-3936-4ae6-821c-8615f89b981c.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/670bfb60-a49c-4413-9157-24632315e305/d2930689-4c74-4ed4-86d3-2e21d6b25e2f.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/670bfb60-a49c-4413-9157-24632315e305/2ff0db47-ce75-49db-9be5-86d245a8997a.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/670bfb60-a49c-4413-9157-24632315e305/9c3730b3-08b6-4479-b5e9-1983ec7be3a7.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/670bfb60-a49c-4413-9157-24632315e305/62803303-e88d-4be2-b1dd-4079c481109a.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/670bfb60-a49c-4413-9157-24632315e305/0f54cf81-db53-4603-8d88-67ac790a42e7.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": true,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "293cf5dd-7e45-43f2-b4df-c2baa111502f",
+                "masterId": "670bfb60-a49c-4413-9157-24632315e305",
+                "title": "Amigos - Doppel Dot Com",
+                "systemId": "CBgcWXYPhDP",
+                "ownerId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "ownerName": "Aditya Movies & Entertainments (India) LLP",
+                "ownerMasterId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "8cd577a9-9fe9-45ed-a48d-23326a3f378d",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Ismart Shankar",
+            "contentType": "VOD_SINGLE",
+            "systemId": "Ac8ZZgPRZeZ",
+            "slug": "ismart-shankar",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/8b36d49d-503d-4d87-ae1b-cbd5af280cb7/c13831b0-e9f2-4dbb-b686-d71f6c6612cd.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/8b36d49d-503d-4d87-ae1b-cbd5af280cb7/27483a13-0fea-4ed2-994e-d3d4324bba28.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/8b36d49d-503d-4d87-ae1b-cbd5af280cb7/10fa6457-117f-4af1-a7de-95d0dd2f9567.jpg",
+                    "code": "HERO_TV"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/8b36d49d-503d-4d87-ae1b-cbd5af280cb7/e9275d04-541d-4a5a-902d-b87b9e283864.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/8b36d49d-503d-4d87-ae1b-cbd5af280cb7/fb4a5a83-3460-4467-bf2e-35c38fc28dbb.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/8b36d49d-503d-4d87-ae1b-cbd5af280cb7/882ff753-63e9-4aef-b44a-ba7e49343eaf.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/8b36d49d-503d-4d87-ae1b-cbd5af280cb7/1dbb151d-1eeb-4cda-83ce-dec7b7f1234c.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": true,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "8cd577a9-9fe9-45ed-a48d-23326a3f378d",
+                "masterId": "8b36d49d-503d-4d87-ae1b-cbd5af280cb7",
+                "title": "Ismart Shankar",
+                "systemId": "Ac8ZZgPRZeZ",
+                "ownerId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "ownerName": "Aditya Movies & Entertainments (India) LLP",
+                "ownerMasterId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "5cc72556-ca46-4426-ad16-a02143bef44e",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Godse - Joy Jonota",
+            "contentType": "VOD_SINGLE",
+            "systemId": "9He2hSeZSMh",
+            "slug": "godse-joy-jonota",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/d068507c-4bea-4acd-87c9-b26f2ea2c77f/5f14c98a-e8a4-4085-ae01-311131cebf0e.jpg",
+                    "code": "HERO_TV"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/d068507c-4bea-4acd-87c9-b26f2ea2c77f/b8116e40-9ac9-4e20-9adf-13650c3f9aa6.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/d068507c-4bea-4acd-87c9-b26f2ea2c77f/1fc549e0-d177-4dfd-82df-87d70ae38557.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/d068507c-4bea-4acd-87c9-b26f2ea2c77f/b0277a7a-b950-41e5-a70e-f622a7fcbb9c.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/d068507c-4bea-4acd-87c9-b26f2ea2c77f/fc5ccc50-eddd-400f-86b2-87ba3a0885d3.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/d068507c-4bea-4acd-87c9-b26f2ea2c77f/d5121874-e455-46dd-8ef7-c2065bc462d8.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/d068507c-4bea-4acd-87c9-b26f2ea2c77f/8e78b388-a534-459e-9d69-ea668fccf5db.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": true,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "5cc72556-ca46-4426-ad16-a02143bef44e",
+                "masterId": "d068507c-4bea-4acd-87c9-b26f2ea2c77f",
+                "title": "Godse - Joy Jonota",
+                "systemId": "9He2hSeZSMh",
+                "ownerId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "ownerName": "Aditya Movies & Entertainments (India) LLP",
+                "ownerMasterId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "c0eccad6-8da5-4545-b867-361e30780cec",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Casino",
+            "contentType": "VOD_SINGLE",
+            "systemId": "AvFPclkVmPj",
+            "slug": "casino",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/c0eccad6-8da5-4545-b867-361e30780cec/5d89468a-f642-4907-ac93-1506004d4647.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/c0eccad6-8da5-4545-b867-361e30780cec/4aba9e5f-050d-4ec4-a089-5c74a5d887e4.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/c0eccad6-8da5-4545-b867-361e30780cec/59e8500e-537f-4402-869d-8e2a2e5bdb6d.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/c0eccad6-8da5-4545-b867-361e30780cec/b255031e-1bcd-4b62-9dfe-bee9e136d4b4.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/c0eccad6-8da5-4545-b867-361e30780cec/3e1f5839-21b7-47c9-893e-580a3480214c.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/c0eccad6-8da5-4545-b867-361e30780cec/f42e0eb2-2eed-4ed8-9321-3f5866464100.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/c0eccad6-8da5-4545-b867-361e30780cec/0a28c4cc-c86b-4d4a-8aa9-369224e94806.jpg",
+                    "code": "HERO_TV"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": true,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "c0eccad6-8da5-4545-b867-361e30780cec",
+                "masterId": "fedede1b-f45b-4c04-a702-72de0bf817e6",
+                "title": "Casino",
+                "systemId": "AvFPclkVmPj",
+                "ownerId": "15208a35-b247-4f42-8915-7c7391e7500c",
+                "ownerName": "Bongo",
+                "ownerMasterId": "15208a35-b247-4f42-8915-7c7391e7500c",
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "c374f37e-f66b-40d3-aeeb-2e3e5057636c",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Tej I Love you",
+            "contentType": "VOD_SINGLE",
+            "systemId": "0N1AEcSyTpb",
+            "slug": "tej-i-love-you",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/c374f37e-f66b-40d3-aeeb-2e3e5057636c/4c013609-d908-41a0-874d-dc38d3ba83fd.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/c374f37e-f66b-40d3-aeeb-2e3e5057636c/cc6577ff-0f53-4845-b3a1-2f9277bedc30.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/c374f37e-f66b-40d3-aeeb-2e3e5057636c/756f6b26-afa8-4e0e-833c-f7f62030b2a1.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/c374f37e-f66b-40d3-aeeb-2e3e5057636c/a0645190-c161-49d9-8099-eaf513169b18.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/c374f37e-f66b-40d3-aeeb-2e3e5057636c/b67e5a1d-0334-4c1c-9f58-194dfc1b3686.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/c374f37e-f66b-40d3-aeeb-2e3e5057636c/8425087a-e453-4b5b-aa8a-e2501f8f5d23.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/c374f37e-f66b-40d3-aeeb-2e3e5057636c/409dcf93-e79c-45e0-93f0-d524d368435c.jpg",
+                    "code": "HERO_TV"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": false,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "c374f37e-f66b-40d3-aeeb-2e3e5057636c",
+                "masterId": "2e9730de-c5bb-4ec6-86d7-492aa6f4e182",
+                "title": "Tej I Love you",
+                "systemId": "0N1AEcSyTpb",
+                "ownerId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "ownerName": "Aditya Movies & Entertainments (India) LLP",
+                "ownerMasterId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "e4e1302b-4518-4e02-8856-c790a76d9da4",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Kolkata Diaries",
+            "contentType": "VOD_SINGLE",
+            "systemId": "squEnF6IEvK",
+            "slug": "kolkata-diaries",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/70161300-5d37-46a5-99a4-e4a75f16a8ee/404aa6e3-55c8-4857-8ec1-6b35b385ec73.jpg",
+                    "code": "HERO_TV"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/70161300-5d37-46a5-99a4-e4a75f16a8ee/1e74c640-c13d-411f-bf82-b2b0f2e4e8e3.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/70161300-5d37-46a5-99a4-e4a75f16a8ee/01484797-1ade-4545-ad13-db521fb99365.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/70161300-5d37-46a5-99a4-e4a75f16a8ee/ecea3954-63c7-4f6d-b8ca-18ee6fc4c050.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/70161300-5d37-46a5-99a4-e4a75f16a8ee/f58988ed-27a5-4687-b066-1e88a29de0c4.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/70161300-5d37-46a5-99a4-e4a75f16a8ee/bafcf2f5-6db5-4857-ab43-07220efee214.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/70161300-5d37-46a5-99a4-e4a75f16a8ee/5947a2d3-672a-49b7-943b-c268b515b5fa.jpg",
+                    "code": "THUMB_PORTRAIT"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": true,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "e4e1302b-4518-4e02-8856-c790a76d9da4",
+                "masterId": "70161300-5d37-46a5-99a4-e4a75f16a8ee",
+                "title": "Kolkata Diaries",
+                "systemId": "squEnF6IEvK",
+                "ownerId": "48301cdc-e134-4b1a-a1d1-dc269758a132",
+                "ownerName": "Rashedul Islam",
+                "ownerMasterId": null,
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "a0f2f407-cbe0-46f0-8c44-bed3f1db25dc",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Rajkumar",
+            "contentType": "VOD_SINGLE",
+            "systemId": "uQiYVVHaQL4",
+            "slug": "rajkumar",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/a0f2f407-cbe0-46f0-8c44-bed3f1db25dc/8f9cb5b7-5b14-4b74-8d29-2a4b255a885e.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/a0f2f407-cbe0-46f0-8c44-bed3f1db25dc/69f8ed37-6b35-4593-ac9c-c0e3913c55bc.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/a0f2f407-cbe0-46f0-8c44-bed3f1db25dc/1532ff89-01a6-4458-948e-48a8c28b88a7.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/a0f2f407-cbe0-46f0-8c44-bed3f1db25dc/39f303d4-2b79-4e78-b050-ddc0b5405fd6.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/a0f2f407-cbe0-46f0-8c44-bed3f1db25dc/b86f303d-6907-4bca-9cb7-fb092e544af5.jpg",
+                    "code": "HERO_TV"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/a0f2f407-cbe0-46f0-8c44-bed3f1db25dc/35a5920f-9fb7-4e2d-88b3-594015859fff.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/a0f2f407-cbe0-46f0-8c44-bed3f1db25dc/0c8231ac-9e73-45e6-8803-6cc9d0b8c285.jpg",
+                    "code": "HERO_SMARTPHONE"
+                }
+            ],
+            "payPerView": true,
+            "payPerViewInfo": {
+                "id": "9d21be63-7ddb-47b8-9cb3-e4c6b3ea06a6",
+                "standardPrice": 1.33,
+                "currency": "SGD",
+                "pricing": {
+                    "price": 24,
+                    "currency": "BDT"
+                },
+                "bundleTag": false
+            },
+            "subscription": false,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "a0f2f407-cbe0-46f0-8c44-bed3f1db25dc",
+                "masterId": "f13363b1-0353-4ad8-9d5e-2d9a0a46ead8",
+                "title": "Rajkumar",
+                "systemId": "uQiYVVHaQL4",
+                "ownerId": "6c9101c2-d720-42f0-8eb7-e9976c676685",
+                "ownerName": "Mohammad Arshad Adnan",
+                "ownerMasterId": null,
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "fdf8d3e8-9c1b-4b6b-86f2-6b08f6f49eae",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Goosebumps",
+            "contentType": "VOD_SINGLE",
+            "systemId": "eK3xbaDevP5",
+            "slug": "goosebumps",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/fdf8d3e8-9c1b-4b6b-86f2-6b08f6f49eae/a72fd71d-cc04-40a5-b052-74f9596377d4.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/fdf8d3e8-9c1b-4b6b-86f2-6b08f6f49eae/5f98a662-ac13-494f-b72e-e7496142acb5.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/fdf8d3e8-9c1b-4b6b-86f2-6b08f6f49eae/92f273c4-6abd-4fc3-ba44-4edb8caee054.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/fdf8d3e8-9c1b-4b6b-86f2-6b08f6f49eae/282a2a4a-6f92-4391-9e22-26c3f796b6f2.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/fdf8d3e8-9c1b-4b6b-86f2-6b08f6f49eae/87c0b762-53ea-4216-84aa-d8cbb1125b7a.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/fdf8d3e8-9c1b-4b6b-86f2-6b08f6f49eae/a1e5e709-4aea-4f27-988d-7c703f0967c7.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/fdf8d3e8-9c1b-4b6b-86f2-6b08f6f49eae/5427e774-0cb0-48bc-9f71-245038e9a187.jpg",
+                    "code": "HERO_TV"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": true,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "fdf8d3e8-9c1b-4b6b-86f2-6b08f6f49eae",
+                "masterId": "2bfa83f1-1a63-4c42-ba0d-f841711efae1",
+                "title": "Goosebumps",
+                "systemId": "eK3xbaDevP5",
+                "ownerId": "566bab5b-53b9-40d1-8983-667591604363",
+                "ownerName": "Sony Pictures Films India Private Limited",
+                "ownerMasterId": null,
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "27d7ed2f-794e-4255-9dae-d443a644135b",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Jinn",
+            "contentType": "VOD_SINGLE",
+            "systemId": "MSAEUxww4hn",
+            "slug": "jinn",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/27d7ed2f-794e-4255-9dae-d443a644135b/51db5e99-980e-4df1-93d5-bb9fcfe6cdb7.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/27d7ed2f-794e-4255-9dae-d443a644135b/5c8de5f6-24a4-4b4c-b1bd-850e9844a05c.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/27d7ed2f-794e-4255-9dae-d443a644135b/94318677-6136-4c1a-a199-8c382d2fc2a8.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/27d7ed2f-794e-4255-9dae-d443a644135b/af4c5aa0-7207-4f2f-8a87-fa526a1ab2f2.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/27d7ed2f-794e-4255-9dae-d443a644135b/347bceab-44fb-4707-bf40-d99eebbe23f3.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/27d7ed2f-794e-4255-9dae-d443a644135b/c0f25fed-e123-44ef-8c70-e2638c41661a.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/27d7ed2f-794e-4255-9dae-d443a644135b/514a3618-a595-47b7-a6e3-f0b6bde5ca26.jpg",
+                    "code": "HERO_TV"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": true,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "27d7ed2f-794e-4255-9dae-d443a644135b",
+                "masterId": "7f7f87f5-76bd-4aa0-a08a-5ec82f82293d",
+                "title": "Jinn",
+                "systemId": "MSAEUxww4hn",
+                "ownerId": "6180a616-f2b4-4bdb-b589-b9c1fa6c5f79",
+                "ownerName": "Jaaz Multimedia",
+                "ownerMasterId": "6180a616-f2b4-4bdb-b589-b9c1fa6c5f79",
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "976dd76b-3fb7-463a-9a67-a8cab3cb9341",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "The Karate Kid",
+            "contentType": "VOD_SINGLE",
+            "systemId": "bgNXDPEP8kT",
+            "slug": "the-karate-kid",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/976dd76b-3fb7-463a-9a67-a8cab3cb9341/b842dbba-aca8-423c-a130-921686ce9aee.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/976dd76b-3fb7-463a-9a67-a8cab3cb9341/b8185c7d-63f3-46c0-878f-4c34f11f2287.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/976dd76b-3fb7-463a-9a67-a8cab3cb9341/ba0fe51a-8b5d-4f0b-9f14-d292b8ca0733.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/976dd76b-3fb7-463a-9a67-a8cab3cb9341/50890657-0b78-4277-81e1-07fa21a100ff.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/976dd76b-3fb7-463a-9a67-a8cab3cb9341/9b8766d5-a459-4d31-9612-9c190702a154.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/976dd76b-3fb7-463a-9a67-a8cab3cb9341/5f670d5a-0eab-4d05-bdd6-a88929fda3a2.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/976dd76b-3fb7-463a-9a67-a8cab3cb9341/4a774542-b4c0-462c-9f8d-862f8463073f.jpg",
+                    "code": "HERO_TV"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": true,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "976dd76b-3fb7-463a-9a67-a8cab3cb9341",
+                "masterId": "2efed669-1913-4d49-a017-29172cb9b5e2",
+                "title": "The Karate Kid",
+                "systemId": "bgNXDPEP8kT",
+                "ownerId": "566bab5b-53b9-40d1-8983-667591604363",
+                "ownerName": "Sony Pictures Films India Private Limited",
+                "ownerMasterId": null,
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "7a09cf1f-a91a-48ff-b6da-fbce64efda6c",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Venom",
+            "contentType": "VOD_SINGLE",
+            "systemId": "fnomPBHmuck",
+            "slug": "venom",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/7a09cf1f-a91a-48ff-b6da-fbce64efda6c/31a30c9f-91f5-4955-927f-9eb8fb551579.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/7a09cf1f-a91a-48ff-b6da-fbce64efda6c/34a85e2c-8624-4dbb-bf88-440e6f92a3df.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/7a09cf1f-a91a-48ff-b6da-fbce64efda6c/698c6485-5b50-4d31-952d-7bd6a9260244.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/7a09cf1f-a91a-48ff-b6da-fbce64efda6c/c93c9faf-8b11-403b-9a37-ac3fa5185118.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/7a09cf1f-a91a-48ff-b6da-fbce64efda6c/8c8d7b7c-a2de-4c87-b015-35f72d5cc6b7.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/7a09cf1f-a91a-48ff-b6da-fbce64efda6c/9e77f1e6-404c-4d7d-8bd6-1fec90d036cf.jpg",
+                    "code": "HERO_TV"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/7a09cf1f-a91a-48ff-b6da-fbce64efda6c/60ebc373-92f3-46fc-a026-f2eb8b365e78.jpg",
+                    "code": "HERO_LAPTOP"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": true,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "7a09cf1f-a91a-48ff-b6da-fbce64efda6c",
+                "masterId": "91e51f62-4041-4a75-b0a0-6ebf6a5303fa",
+                "title": "Venom",
+                "systemId": "fnomPBHmuck",
+                "ownerId": "566bab5b-53b9-40d1-8983-667591604363",
+                "ownerName": "Sony Pictures Films India Private Limited",
+                "ownerMasterId": null,
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "2243eab3-2261-4337-a63f-9a6a59233a09",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Resident Evil: Extinction",
+            "contentType": "VOD_SINGLE",
+            "systemId": "YPd1dBIxNng",
+            "slug": "resident-evil-extinction",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2243eab3-2261-4337-a63f-9a6a59233a09/14a0e0e8-1846-433d-b774-61155183fa0a.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2243eab3-2261-4337-a63f-9a6a59233a09/8b3dbf1b-7b4b-43e5-8010-9756b63896d2.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2243eab3-2261-4337-a63f-9a6a59233a09/a7f8a064-a2c1-4c44-81fb-2e5670893658.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2243eab3-2261-4337-a63f-9a6a59233a09/86a329e1-4639-4d75-ba30-4a5a7936f3dc.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2243eab3-2261-4337-a63f-9a6a59233a09/5530e6b0-7322-4b4b-83b9-2b55662f7d01.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2243eab3-2261-4337-a63f-9a6a59233a09/3494bc6c-6417-4347-a745-9f9fc9ffc835.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2243eab3-2261-4337-a63f-9a6a59233a09/2fb074e7-b1c5-4de6-875e-cfdae16ebafc.jpg",
+                    "code": "HERO_TV"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": true,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "2243eab3-2261-4337-a63f-9a6a59233a09",
+                "masterId": "9617bda9-f8be-48fd-be10-52b10603578e",
+                "title": "Resident Evil: Extinction",
+                "systemId": "YPd1dBIxNng",
+                "ownerId": "566bab5b-53b9-40d1-8983-667591604363",
+                "ownerName": "Sony Pictures Films India Private Limited",
+                "ownerMasterId": null,
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "13888f70-1fce-4dd4-8447-04d882891631",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Kung Fu Hustle",
+            "contentType": "VOD_SINGLE",
+            "systemId": "lpKeTg1desS",
+            "slug": "kung-fu-hustle",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/672f41fe-98db-4b55-b106-49bb8f4ada5f/542a3dec-8110-45f8-920b-0c257359ca62.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/672f41fe-98db-4b55-b106-49bb8f4ada5f/9419d571-8599-4e03-bf32-383d5ec7f958.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/672f41fe-98db-4b55-b106-49bb8f4ada5f/e9f1972a-e045-4cab-8276-af6e575a8e77.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/672f41fe-98db-4b55-b106-49bb8f4ada5f/067bd9c6-5efb-4326-8c08-303daf58bdbf.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/672f41fe-98db-4b55-b106-49bb8f4ada5f/66eb9b41-940e-4058-b506-a73142bbfa34.jpg",
+                    "code": "HERO_TV"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/672f41fe-98db-4b55-b106-49bb8f4ada5f/28cff742-074a-4213-ad58-ea4cf6710196.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/919f93a7-400e-4149-a70d-204beb589074/content/672f41fe-98db-4b55-b106-49bb8f4ada5f/31eb36a0-059d-4faa-8761-d22be8dddab7.jpg",
+                    "code": "HERO_TAB"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": true,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "13888f70-1fce-4dd4-8447-04d882891631",
+                "masterId": "672f41fe-98db-4b55-b106-49bb8f4ada5f",
+                "title": "Kung Fu Hustle",
+                "systemId": "lpKeTg1desS",
+                "ownerId": "566bab5b-53b9-40d1-8983-667591604363",
+                "ownerName": "Sony Pictures Films India Private Limited",
+                "ownerMasterId": null,
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "f5305833-be7b-4010-af1c-d8966859c9a4",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Spider-Man: Far From Home",
+            "contentType": "VOD_SINGLE",
+            "systemId": "0YadrpUOz0g",
+            "slug": "spider-man-far-from-home",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/f5305833-be7b-4010-af1c-d8966859c9a4/bc6375b9-cc3c-4f99-877d-23b3101f2394.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/f5305833-be7b-4010-af1c-d8966859c9a4/9914c855-1fd0-46ea-a18a-3a6616235ace.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/f5305833-be7b-4010-af1c-d8966859c9a4/7f1201a9-5ff1-453a-b49d-91b221f35599.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/f5305833-be7b-4010-af1c-d8966859c9a4/3f0cc6d1-895a-4d9c-b763-0a82c78c195f.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/f5305833-be7b-4010-af1c-d8966859c9a4/6f2a9bc8-d84a-4441-a437-dd6cf9a98b0a.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/f5305833-be7b-4010-af1c-d8966859c9a4/ff662943-5225-4fb5-a692-71e1ef14bf44.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/f5305833-be7b-4010-af1c-d8966859c9a4/d540604d-091b-4744-93e8-1e8427b93c42.jpg",
+                    "code": "HERO_TV"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": true,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "f5305833-be7b-4010-af1c-d8966859c9a4",
+                "masterId": "f0dfccdf-0ab3-402a-8903-db7e19c84966",
+                "title": "Spider-Man: Far From Home",
+                "systemId": "0YadrpUOz0g",
+                "ownerId": "566bab5b-53b9-40d1-8983-667591604363",
+                "ownerName": "Sony Pictures Films India Private Limited",
+                "ownerMasterId": null,
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "c8c6b1c0-5ef3-43f3-975f-e8f04f899168",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "The Amazing Spider-Man",
+            "contentType": "VOD_SINGLE",
+            "systemId": "2qpMIeTXktq",
+            "slug": "the-amazing-spider-man",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/c8c6b1c0-5ef3-43f3-975f-e8f04f899168/437fae82-2b5b-42c7-b85d-5ab04e16c8bf.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/c8c6b1c0-5ef3-43f3-975f-e8f04f899168/ff55ed0f-2f2c-496b-9165-9fdf1b83bdc0.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/c8c6b1c0-5ef3-43f3-975f-e8f04f899168/6888878b-e77c-4f3d-93a3-aca59397223a.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/c8c6b1c0-5ef3-43f3-975f-e8f04f899168/8aabe22a-3cff-490b-b93c-ec7667423335.jpg",
+                    "code": "HERO_TV"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/c8c6b1c0-5ef3-43f3-975f-e8f04f899168/26648df7-6732-4dfc-9535-02adc29f5993.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/c8c6b1c0-5ef3-43f3-975f-e8f04f899168/d31917ea-dfae-4a41-a4f4-978f4849bf9d.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/c8c6b1c0-5ef3-43f3-975f-e8f04f899168/0baadc51-3791-4fa9-a43e-6ec52b75151d.jpg",
+                    "code": "HERO_SMARTPHONE"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": true,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "c8c6b1c0-5ef3-43f3-975f-e8f04f899168",
+                "masterId": "d5955a1f-5d29-4ebc-88d3-4b33b18f823d",
+                "title": "The Amazing Spider-Man",
+                "systemId": "2qpMIeTXktq",
+                "ownerId": "566bab5b-53b9-40d1-8983-667591604363",
+                "ownerName": "Sony Pictures Films India Private Limited",
+                "ownerMasterId": null,
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "0c384a78-1e3a-4b4b-a5b8-7b84e1bc2b6d",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Spider-Man 3",
+            "contentType": "VOD_SINGLE",
+            "systemId": "WL5r3AatXg5",
+            "slug": "spider-man-3",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/0c384a78-1e3a-4b4b-a5b8-7b84e1bc2b6d/1ac9a8c8-f8d7-4531-bbfd-c50aa070f8c0.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/0c384a78-1e3a-4b4b-a5b8-7b84e1bc2b6d/4bc034bc-db4c-4964-add3-17502812c278.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/0c384a78-1e3a-4b4b-a5b8-7b84e1bc2b6d/10a991ac-c4e2-4e9e-bc9a-62ce59566e8d.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/0c384a78-1e3a-4b4b-a5b8-7b84e1bc2b6d/81317e19-4e53-4126-8de2-d7ec6cbe1a1e.jpg",
+                    "code": "HERO_TV"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/0c384a78-1e3a-4b4b-a5b8-7b84e1bc2b6d/9ba8a5eb-61d3-409a-b804-e1e7b3f93c25.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/0c384a78-1e3a-4b4b-a5b8-7b84e1bc2b6d/cffda27d-c3a2-4e2e-9a92-4d7a46213695.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/0c384a78-1e3a-4b4b-a5b8-7b84e1bc2b6d/fd8521ec-dce7-46ce-b170-7c586111e596.jpg",
+                    "code": "HERO_LAPTOP"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": true,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "0c384a78-1e3a-4b4b-a5b8-7b84e1bc2b6d",
+                "masterId": "d99608c8-ffcc-4eef-93e8-640ed9986d61",
+                "title": "Spider-Man 3",
+                "systemId": "WL5r3AatXg5",
+                "ownerId": "566bab5b-53b9-40d1-8983-667591604363",
+                "ownerName": "Sony Pictures Films India Private Limited",
+                "ownerMasterId": null,
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "3a79771c-489a-43de-8c15-1c97fb463f41",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Raavan",
+            "contentType": "VOD_SINGLE",
+            "systemId": "YCh27aYWt6o",
+            "slug": "raavan",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/3a79771c-489a-43de-8c15-1c97fb463f41/1ede09d7-b290-494c-b560-4f8030a2177d.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/3a79771c-489a-43de-8c15-1c97fb463f41/578f87c4-66c2-4d54-b9ca-f327f1720603.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/3a79771c-489a-43de-8c15-1c97fb463f41/6baf464e-2ee5-4e4b-91fb-221f29f68314.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/3a79771c-489a-43de-8c15-1c97fb463f41/a59de59d-8912-49d9-9cac-f3bba24ae6d5.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/3a79771c-489a-43de-8c15-1c97fb463f41/1215063f-28c4-491e-a92b-fa355e71e951.jpg",
+                    "code": "HERO_TV"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/3a79771c-489a-43de-8c15-1c97fb463f41/d5336882-6d48-4546-98ee-01428d849bc0.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/3a79771c-489a-43de-8c15-1c97fb463f41/2e11c09d-d6fa-4614-ab5c-6d3873826b8c.jpg",
+                    "code": "HERO_LAPTOP"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": true,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "3a79771c-489a-43de-8c15-1c97fb463f41",
+                "masterId": "75f2223d-9c01-4538-bd80-2721eb7bc098",
+                "title": "Raavan",
+                "systemId": "YCh27aYWt6o",
+                "ownerId": "ed43518d-ebae-40ef-80b9-e101e909c7d9",
+                "ownerName": "Jeetz Filmworks Pvt. Ltd.",
+                "ownerMasterId": "ed43518d-ebae-40ef-80b9-e101e909c7d9",
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "933c61ad-f8a2-4be2-acb1-9010ce26fdf6",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Spider-Man 2",
+            "contentType": "VOD_SINGLE",
+            "systemId": "iFtZ3WByUyB",
+            "slug": "spider-man-2",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/933c61ad-f8a2-4be2-acb1-9010ce26fdf6/dad71119-1336-43dc-bf87-0eb14f803023.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/933c61ad-f8a2-4be2-acb1-9010ce26fdf6/0736b3e1-65a0-4112-8330-9c82944b6670.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/933c61ad-f8a2-4be2-acb1-9010ce26fdf6/b2b5a673-2c40-4ce9-a47f-ad62e3f3d193.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/933c61ad-f8a2-4be2-acb1-9010ce26fdf6/5b0544ac-c038-4267-a1ef-5b2a22e11570.jpg",
+                    "code": "HERO_TV"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/933c61ad-f8a2-4be2-acb1-9010ce26fdf6/b89e0a21-4f02-4f6c-afc3-c7212cb437a3.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/933c61ad-f8a2-4be2-acb1-9010ce26fdf6/04ae9015-bb74-4d7d-aee7-0b91802aef30.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/933c61ad-f8a2-4be2-acb1-9010ce26fdf6/0d9f6073-cdaf-4cdb-b121-b151c764a591.jpg",
+                    "code": "HERO_SMARTPHONE"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": true,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "933c61ad-f8a2-4be2-acb1-9010ce26fdf6",
+                "masterId": "07014aed-b90b-48fb-9205-fe49a0401573",
+                "title": "Spider-Man 2",
+                "systemId": "iFtZ3WByUyB",
+                "ownerId": "566bab5b-53b9-40d1-8983-667591604363",
+                "ownerName": "Sony Pictures Films India Private Limited",
+                "ownerMasterId": null,
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "eee1601b-37d3-4fc9-a859-eabed9523289",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Osomoy",
+            "contentType": "VOD_SINGLE",
+            "systemId": "0oHtCtQNIlT",
+            "slug": "osomoy",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/eee1601b-37d3-4fc9-a859-eabed9523289/95310c7e-6923-494b-b3cd-5b87064e9f3e.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/eee1601b-37d3-4fc9-a859-eabed9523289/c39e6bea-5eba-4c93-bbdd-e310bd56653f.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/eee1601b-37d3-4fc9-a859-eabed9523289/da9b78a1-524d-4713-ac46-d452a79b008e.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/eee1601b-37d3-4fc9-a859-eabed9523289/bab70fd4-b5c1-41a1-9d8f-60ea788ecf0d.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/eee1601b-37d3-4fc9-a859-eabed9523289/16b2e9c2-d5b3-499b-b830-187620de0231.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/eee1601b-37d3-4fc9-a859-eabed9523289/f51e950e-e6f9-4db0-a435-29453153696d.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/eee1601b-37d3-4fc9-a859-eabed9523289/acf2fc72-5791-49db-bda8-a3bd1566c605.jpg",
+                    "code": "HERO_TV"
+                }
+            ],
+            "payPerView": true,
+            "payPerViewInfo": {
+                "id": "84cef093-7657-4c02-9bc2-a934a6b7a5b2",
+                "standardPrice": 20.0,
+                "currency": "BDT",
+                "pricing": null,
+                "bundleTag": false
+            },
+            "subscription": true,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "eee1601b-37d3-4fc9-a859-eabed9523289",
+                "masterId": "0c09192c-713c-4c00-bd41-830c69a1817e",
+                "title": "Osomoy",
+                "systemId": "0oHtCtQNIlT",
+                "ownerId": "15208a35-b247-4f42-8915-7c7391e7500c",
+                "ownerName": "Bongo",
+                "ownerMasterId": "15208a35-b247-4f42-8915-7c7391e7500c",
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "bffdf45a-4398-4f0b-9af3-6490dd87c72d",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Mirapakay - Missile",
+            "contentType": "VOD_SINGLE",
+            "systemId": "PIbfjTjqiEg",
+            "slug": "mirapakay-missile",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/bffdf45a-4398-4f0b-9af3-6490dd87c72d/0f023ee6-a928-4317-b2c8-9b45d65c3c8f.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/bffdf45a-4398-4f0b-9af3-6490dd87c72d/3cb09f82-34d1-4492-be78-415ad0c045d7.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/bffdf45a-4398-4f0b-9af3-6490dd87c72d/18537dd7-143a-4103-aa37-787f034197a6.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/bffdf45a-4398-4f0b-9af3-6490dd87c72d/60732c33-2030-4d4e-9b98-0d22b69fe94b.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/bffdf45a-4398-4f0b-9af3-6490dd87c72d/ccc6af8e-3604-433c-b3ed-fe8889c55d1d.jpg",
+                    "code": "HERO_TV"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/bffdf45a-4398-4f0b-9af3-6490dd87c72d/f415008a-b196-408f-9a05-38ca820a5c15.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/bffdf45a-4398-4f0b-9af3-6490dd87c72d/79879d8a-0f4e-444f-b3e2-7f4a7a0018e6.jpg",
+                    "code": "THUMB_PORTRAIT"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": false,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "bffdf45a-4398-4f0b-9af3-6490dd87c72d",
+                "masterId": "f9bdad7d-5958-45b3-81bd-a628d035f125",
+                "title": "Mirapakay - Missile",
+                "systemId": "PIbfjTjqiEg",
+                "ownerId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "ownerName": "Aditya Movies & Entertainments (India) LLP",
+                "ownerMasterId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "49fdeb3e-7867-4c6b-9fcd-040e24b9cfc3",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Spider-Man",
+            "contentType": "VOD_SINGLE",
+            "systemId": "SofCva39xWf",
+            "slug": "spider-man",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/49fdeb3e-7867-4c6b-9fcd-040e24b9cfc3/e5b8ea45-4c5d-4344-993d-d940cb098053.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/49fdeb3e-7867-4c6b-9fcd-040e24b9cfc3/a8cb0316-e9b7-456b-8726-cf44107af7ee.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/49fdeb3e-7867-4c6b-9fcd-040e24b9cfc3/fc80ba7a-203f-47de-9e42-7113a113ee7e.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/49fdeb3e-7867-4c6b-9fcd-040e24b9cfc3/edbc029f-ef64-4f08-bb0e-088d2cad83ae.jpg",
+                    "code": "HERO_TV"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/49fdeb3e-7867-4c6b-9fcd-040e24b9cfc3/2cb64d73-4fa6-46b7-8d22-9bb5974e073d.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/49fdeb3e-7867-4c6b-9fcd-040e24b9cfc3/d5aad0a2-c4b3-4439-b20c-5147ef71f72c.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/49fdeb3e-7867-4c6b-9fcd-040e24b9cfc3/6dafc02d-0fd3-4a8b-9e4f-718a35b05639.jpg",
+                    "code": "HERO_LAPTOP"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": true,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "49fdeb3e-7867-4c6b-9fcd-040e24b9cfc3",
+                "masterId": "7b501ea9-e1eb-4778-9447-b6662d49c635",
+                "title": "Spider-Man",
+                "systemId": "SofCva39xWf",
+                "ownerId": "566bab5b-53b9-40d1-8983-667591604363",
+                "ownerName": "Sony Pictures Films India Private Limited",
+                "ownerMasterId": null,
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "6934357a-dfcf-43f0-b66e-d9a0e584a2be",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "FIR",
+            "contentType": "VOD_SINGLE",
+            "systemId": "N91kDQdiUqO",
+            "slug": "fir",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/6934357a-dfcf-43f0-b66e-d9a0e584a2be/154b0099-abb6-48d8-bb0b-6dbe79014522.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/6934357a-dfcf-43f0-b66e-d9a0e584a2be/27791a5d-65dd-47cd-91ea-6d7f65a4dd3a.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/6934357a-dfcf-43f0-b66e-d9a0e584a2be/69cd07df-38f2-4d9b-9f38-765cc73fd2c1.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/6934357a-dfcf-43f0-b66e-d9a0e584a2be/85b22112-0cbd-4d84-baa1-4ceabc85f5c7.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/6934357a-dfcf-43f0-b66e-d9a0e584a2be/8ac827ab-377f-4fca-a043-ad1fdcbf0743.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/6934357a-dfcf-43f0-b66e-d9a0e584a2be/65596d64-e4f9-44b3-bd9c-94ce2f61b20b.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/6934357a-dfcf-43f0-b66e-d9a0e584a2be/cf494a34-ce2f-4271-bc31-86ace1d967a9.jpg",
+                    "code": "HERO_TV"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": false,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "6934357a-dfcf-43f0-b66e-d9a0e584a2be",
+                "masterId": "ee86918c-21e6-430d-8041-60798d70be34",
+                "title": "FIR",
+                "systemId": "N91kDQdiUqO",
+                "ownerId": "6df62260-8f49-4218-9726-355f3a9533d4",
+                "ownerName": "AP International",
+                "ownerMasterId": "6df62260-8f49-4218-9726-355f3a9533d4",
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "4a260f0f-b82c-48f4-bba9-d3c61fd1117f",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Kanche - Border",
+            "contentType": "VOD_SINGLE",
+            "systemId": "GgF9DFw0Do7",
+            "slug": "kanche-border",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/4a260f0f-b82c-48f4-bba9-d3c61fd1117f/4b3ddfca-e076-4418-8006-60e795994709.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/4a260f0f-b82c-48f4-bba9-d3c61fd1117f/4f0f029c-d9f0-4531-b486-72385605d644.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/4a260f0f-b82c-48f4-bba9-d3c61fd1117f/b910b618-dbbe-4cb8-a482-44062edb4ff5.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/4a260f0f-b82c-48f4-bba9-d3c61fd1117f/071367a2-4b7d-4473-9d1f-0ded922754fa.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/4a260f0f-b82c-48f4-bba9-d3c61fd1117f/ef45ba35-9f58-44b9-9766-8030776557bf.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/4a260f0f-b82c-48f4-bba9-d3c61fd1117f/398f0dbc-1933-43f0-81a1-61d9fa594c99.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/4a260f0f-b82c-48f4-bba9-d3c61fd1117f/5af4f3ba-41d7-4c01-8848-b98057fc45e1.jpg",
+                    "code": "HERO_TV"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": true,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "4a260f0f-b82c-48f4-bba9-d3c61fd1117f",
+                "masterId": "ffc2ac9c-adeb-4fb9-87f3-fdb711e3849f",
+                "title": "Kanche - Border",
+                "systemId": "GgF9DFw0Do7",
+                "ownerId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "ownerName": "Aditya Movies & Entertainments (India) LLP",
+                "ownerMasterId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "d9c30e0b-79bf-4034-82b6-31a2facfc0c9",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Supreme",
+            "contentType": "VOD_SINGLE",
+            "systemId": "sn9NcTrvwWG",
+            "slug": "supreme",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/d9c30e0b-79bf-4034-82b6-31a2facfc0c9/ca53fb65-4f2e-4416-944c-5855127dca3d.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/d9c30e0b-79bf-4034-82b6-31a2facfc0c9/3e8ae54f-725e-40ed-89aa-15930a2aa5d3.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/d9c30e0b-79bf-4034-82b6-31a2facfc0c9/20fc98c7-4f1d-4646-867a-2f5a7a113043.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/d9c30e0b-79bf-4034-82b6-31a2facfc0c9/02f39c6a-2996-44a2-8801-b97a86ac7e24.jpg",
+                    "code": "HERO_TV"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/d9c30e0b-79bf-4034-82b6-31a2facfc0c9/4b8d2f02-c736-4349-ae19-d01c010209d2.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/d9c30e0b-79bf-4034-82b6-31a2facfc0c9/859ed215-cc76-402b-bb6d-44c056b6e02e.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/d9c30e0b-79bf-4034-82b6-31a2facfc0c9/06bfcc2d-3177-47c1-be38-4536151d8a0f.jpg",
+                    "code": "HERO_MOBILE"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": true,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "d9c30e0b-79bf-4034-82b6-31a2facfc0c9",
+                "masterId": "b82c88d8-4d18-4727-a000-9e5fd32f6874",
+                "title": "Supreme",
+                "systemId": "sn9NcTrvwWG",
+                "ownerId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "ownerName": "Aditya Movies & Entertainments (India) LLP",
+                "ownerMasterId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "13ad0840-c76d-4185-a6a7-c918a8051739",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Malupu - Turning Point",
+            "contentType": "VOD_SINGLE",
+            "systemId": "Gmd5SZF7PGq",
+            "slug": "malupu-turning-point",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/13ad0840-c76d-4185-a6a7-c918a8051739/5a918cf7-9f14-4acb-aef7-64df6570d9cc.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/13ad0840-c76d-4185-a6a7-c918a8051739/497880de-6a97-423a-9796-ed5ad26ed7f5.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/13ad0840-c76d-4185-a6a7-c918a8051739/2a044c65-0cbc-4bf5-ac7b-e7a75d8e4eaa.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/13ad0840-c76d-4185-a6a7-c918a8051739/99ff0666-11e2-461e-a39f-351d99789901.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/13ad0840-c76d-4185-a6a7-c918a8051739/30b6045f-d4d7-4a28-b1cc-82fa4869218f.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/13ad0840-c76d-4185-a6a7-c918a8051739/43f3c99d-7712-4c47-a6d4-a3707c0a8ead.jpg",
+                    "code": "HERO_TV"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/13ad0840-c76d-4185-a6a7-c918a8051739/fdaaf091-35cd-4c61-82d7-f36d88efe4a9.jpg",
+                    "code": "HERO_TAB"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": false,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "13ad0840-c76d-4185-a6a7-c918a8051739",
+                "masterId": "c7bc4478-d6e8-4601-81f2-f689915a4e38",
+                "title": "Malupu - Turning Point",
+                "systemId": "Gmd5SZF7PGq",
+                "ownerId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "ownerName": "Aditya Movies & Entertainments (India) LLP",
+                "ownerMasterId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "61b53aec-afae-472b-85fe-072c1827fef1",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Hello Guru Prema Kosame - Prem Korechi Korboi Toh",
+            "contentType": "VOD_SINGLE",
+            "systemId": "1elZU6qrUPZ",
+            "slug": "hello-guru-prema-kosame-prem-korechi-korboi-toh-bfa66952d807",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/61b53aec-afae-472b-85fe-072c1827fef1/ad3a2b68-18da-4823-8f34-6e8794800513.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/61b53aec-afae-472b-85fe-072c1827fef1/97ac0413-c2a4-482e-b14d-aa09d8a71252.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/61b53aec-afae-472b-85fe-072c1827fef1/6697eef9-ffcb-403c-82f5-dfeb83420e96.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/61b53aec-afae-472b-85fe-072c1827fef1/df460aca-cedc-4fa7-8523-6448dc4c7e7e.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/61b53aec-afae-472b-85fe-072c1827fef1/e0fe6f04-39d8-4e01-aee1-e551a59ae4a0.jpg",
+                    "code": "HERO_TV"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/61b53aec-afae-472b-85fe-072c1827fef1/1cf257c8-a635-433a-81f2-87e8796cef36.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/61b53aec-afae-472b-85fe-072c1827fef1/463dc419-fbb3-4c1c-ba90-626977735384.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": false,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "61b53aec-afae-472b-85fe-072c1827fef1",
+                "masterId": "8e88bd5b-cac8-4e98-a5d6-7b4aa5711eba",
+                "title": "Hello Guru Prema Kosame - Prem Korechi Korboi Toh",
+                "systemId": "1elZU6qrUPZ",
+                "ownerId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "ownerName": "Aditya Movies & Entertainments (India) LLP",
+                "ownerMasterId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "cdf142aa-f6b1-4939-ad5e-a852a07f40d4",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Adithya Varma",
+            "contentType": "VOD_SINGLE",
+            "systemId": "UcOEC0wEwPp",
+            "slug": "adithya-varma",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/cdf142aa-f6b1-4939-ad5e-a852a07f40d4/d05b5a21-9a65-4f79-86b4-b263e295bd10.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/cdf142aa-f6b1-4939-ad5e-a852a07f40d4/85b5c15d-25e7-4ea1-b235-f97672f9a503.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/cdf142aa-f6b1-4939-ad5e-a852a07f40d4/7731d0f4-c3aa-4d83-9dfa-30903af5b4f1.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/cdf142aa-f6b1-4939-ad5e-a852a07f40d4/6131e995-3566-4343-92f2-5a4ce31c5ace.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/cdf142aa-f6b1-4939-ad5e-a852a07f40d4/0d8af565-6f40-4c12-99c3-08d54803b6fe.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/cdf142aa-f6b1-4939-ad5e-a852a07f40d4/c174f613-80e0-4df6-9afb-a783ba651b2c.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/cdf142aa-f6b1-4939-ad5e-a852a07f40d4/15bca356-ba32-4260-86d0-7383b3803881.jpg",
+                    "code": "HERO_TV"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": false,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "cdf142aa-f6b1-4939-ad5e-a852a07f40d4",
+                "masterId": "cdf142aa-f6b1-4939-ad5e-a852a07f40d4",
+                "title": "Adithya Varma",
+                "systemId": "UcOEC0wEwPp",
+                "ownerId": "00f5c364-a429-4c9d-9e14-9dabf69e6c44",
+                "ownerName": "B4U Network Ltd.",
+                "ownerMasterId": "00f5c364-a429-4c9d-9e14-9dabf69e6c44",
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "4c7baac6-887c-4924-aaf2-ad3ab42c5011",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "MLA",
+            "contentType": "VOD_SINGLE",
+            "systemId": "7pxa8ESN7od",
+            "slug": "mla",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/4c7baac6-887c-4924-aaf2-ad3ab42c5011/5e3a3354-d4b0-452c-beba-e684a5459335.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/4c7baac6-887c-4924-aaf2-ad3ab42c5011/0c21d863-7dc7-4eb5-9d14-370176504aa5.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/4c7baac6-887c-4924-aaf2-ad3ab42c5011/2e541ed0-99b8-450e-abe1-1908cbd39ed6.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/4c7baac6-887c-4924-aaf2-ad3ab42c5011/ca3322a2-aa2d-4bf3-9632-5cca88e61e94.jpg",
+                    "code": "HERO_TV"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/4c7baac6-887c-4924-aaf2-ad3ab42c5011/1a7daf8a-a386-4d7e-ba8e-7b3a1a86421a.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/4c7baac6-887c-4924-aaf2-ad3ab42c5011/3862e858-d7cc-4445-9d3f-79c980ec857c.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/4c7baac6-887c-4924-aaf2-ad3ab42c5011/821e5030-65c5-4568-9d2e-08ad5631f230.jpg",
+                    "code": "HERO_TAB"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": true,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "4c7baac6-887c-4924-aaf2-ad3ab42c5011",
+                "masterId": "e50f6661-2430-4e50-85ed-edfe1cbf793b",
+                "title": "MLA",
+                "systemId": "7pxa8ESN7od",
+                "ownerId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "ownerName": "Aditya Movies & Entertainments (India) LLP",
+                "ownerMasterId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "2e89d29f-f1fb-4bd7-90e0-1d0b165e77f4",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Kotigobba 2 - Ekai Eksho",
+            "contentType": "VOD_SINGLE",
+            "systemId": "enb5PLFrxJS",
+            "slug": "kotigobba-2-ekai-eksho",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2e89d29f-f1fb-4bd7-90e0-1d0b165e77f4/b421775e-c431-436f-8ffb-f2f90b2052a7.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2e89d29f-f1fb-4bd7-90e0-1d0b165e77f4/251039e8-227d-465d-98d9-fb3e92218915.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2e89d29f-f1fb-4bd7-90e0-1d0b165e77f4/a2951b6a-43d9-4894-953d-196c66abc185.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2e89d29f-f1fb-4bd7-90e0-1d0b165e77f4/9a95305c-1753-4b7d-a9f9-ea6b9193631a.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2e89d29f-f1fb-4bd7-90e0-1d0b165e77f4/20b3c588-e559-404f-9ad6-98a43c090414.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2e89d29f-f1fb-4bd7-90e0-1d0b165e77f4/155c5ede-94b5-45f9-8d4c-4e9e57d42f8d.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2e89d29f-f1fb-4bd7-90e0-1d0b165e77f4/376fad92-64b3-4234-b0db-de6cf6ed90d8.jpg",
+                    "code": "HERO_TV"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": false,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "2e89d29f-f1fb-4bd7-90e0-1d0b165e77f4",
+                "masterId": "480d5965-cb7e-408f-8867-69005a287245",
+                "title": "Kotigobba 2 - Ekai Eksho",
+                "systemId": "enb5PLFrxJS",
+                "ownerId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "ownerName": "Aditya Movies & Entertainments (India) LLP",
+                "ownerMasterId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "0301816b-f779-439f-87b4-5aa7d1f3fb9c",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Din: The Day",
+            "contentType": "VOD_SINGLE",
+            "systemId": "zPKBhLoverQ",
+            "slug": "din-the-day-b18880321d82",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/0301816b-f779-439f-87b4-5aa7d1f3fb9c/86beba72-c65f-4dbb-8619-d61767f3e756.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/0301816b-f779-439f-87b4-5aa7d1f3fb9c/335a38a0-7962-4791-a911-76cfdb5e20bf.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/0301816b-f779-439f-87b4-5aa7d1f3fb9c/2b8da4ab-2d22-43dc-8a25-2144a95ed7cb.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/0301816b-f779-439f-87b4-5aa7d1f3fb9c/49cc7f72-e346-4f33-a17e-f8a97bf974b8.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/0301816b-f779-439f-87b4-5aa7d1f3fb9c/024b1be6-5136-4558-990c-682960cdc36d.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/0301816b-f779-439f-87b4-5aa7d1f3fb9c/2741c507-6b49-46cd-96c7-d434087d4a57.jpg",
+                    "code": "HERO_TV"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/0301816b-f779-439f-87b4-5aa7d1f3fb9c/31034dc0-41f7-4d3a-935a-05ea281f03ea.jpg",
+                    "code": "HERO_MOBILE"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": true,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "0301816b-f779-439f-87b4-5aa7d1f3fb9c",
+                "masterId": "2c8ee3f5-b285-451b-bc55-0ad271e3341d",
+                "title": "Din: The Day",
+                "systemId": "zPKBhLoverQ",
+                "ownerId": "15208a35-b247-4f42-8915-7c7391e7500c",
+                "ownerName": "Bongo",
+                "ownerMasterId": "15208a35-b247-4f42-8915-7c7391e7500c",
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "bffb8bb8-65ad-4a58-a00f-9b2adacd4d12",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Inttelligent",
+            "contentType": "VOD_SINGLE",
+            "systemId": "jxZ96e0vgsk",
+            "slug": "inttelligent",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/bffb8bb8-65ad-4a58-a00f-9b2adacd4d12/1b6cad2f-bbc5-4650-971d-3a4653235992.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/bffb8bb8-65ad-4a58-a00f-9b2adacd4d12/289911d3-3155-4391-8a18-c7fa18c5aeca.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/bffb8bb8-65ad-4a58-a00f-9b2adacd4d12/2e8772b1-2ff3-4405-ab99-1fd701ce1815.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/bffb8bb8-65ad-4a58-a00f-9b2adacd4d12/5f8d7697-30d3-474e-b82b-00f33ccefafc.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/bffb8bb8-65ad-4a58-a00f-9b2adacd4d12/ed18b278-54e2-495d-9e7b-5a1272ecb963.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/bffb8bb8-65ad-4a58-a00f-9b2adacd4d12/2a1e04b0-2b1f-4494-bba5-ba759e98a396.jpg",
+                    "code": "HERO_TV"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/bffb8bb8-65ad-4a58-a00f-9b2adacd4d12/9b909ba6-a78e-45c9-b3a8-9dec302408a1.jpg",
+                    "code": "HERO_SMARTPHONE"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": false,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "bffb8bb8-65ad-4a58-a00f-9b2adacd4d12",
+                "masterId": "330f93e8-b294-4d60-b7a8-a377b3816d2e",
+                "title": "Inttelligent",
+                "systemId": "jxZ96e0vgsk",
+                "ownerId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "ownerName": "Aditya Movies & Entertainments (India) LLP",
+                "ownerMasterId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "47e42093-331e-48f4-88dd-af412f7b201d",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Mukunda - Shotru",
+            "contentType": "VOD_SINGLE",
+            "systemId": "Fj0AHOjByD2",
+            "slug": "mukunda-shotru",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/47e42093-331e-48f4-88dd-af412f7b201d/ea392145-cc96-432d-9a95-c70d1872fdec.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/47e42093-331e-48f4-88dd-af412f7b201d/e26c1c0c-fe53-4201-b15c-78eae7553cff.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/47e42093-331e-48f4-88dd-af412f7b201d/34b4fcd6-4210-4fee-a942-a77da4279e86.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/47e42093-331e-48f4-88dd-af412f7b201d/a21d029c-37b1-45b3-955e-2a7444376f25.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/47e42093-331e-48f4-88dd-af412f7b201d/007fd7b4-62f9-438c-9a17-f3c87bd1b411.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/47e42093-331e-48f4-88dd-af412f7b201d/7d79a4bb-85c3-4bba-b53c-860c04bd5ce9.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/47e42093-331e-48f4-88dd-af412f7b201d/dffd3924-9fe7-4897-b560-4e6763605447.jpg",
+                    "code": "HERO_TV"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": false,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "47e42093-331e-48f4-88dd-af412f7b201d",
+                "masterId": "7b45a24a-3203-49fa-8655-dff7318dc060",
+                "title": "Mukunda - Shotru",
+                "systemId": "Fj0AHOjByD2",
+                "ownerId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "ownerName": "Aditya Movies & Entertainments (India) LLP",
+                "ownerMasterId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "d52ac12f-b6f0-4e9a-bf18-c860548b7b21",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Bhale Manchi Roju - Raj the Kidnapper",
+            "contentType": "VOD_SINGLE",
+            "systemId": "nCDOt1R1c5t",
+            "slug": "bhale-manchi-roju-raj-the-kidnapper",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/d52ac12f-b6f0-4e9a-bf18-c860548b7b21/4f64a12e-ca17-4966-8255-bf31bf348766.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/d52ac12f-b6f0-4e9a-bf18-c860548b7b21/e1794340-a54a-4f13-956f-fae881ce57bc.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/d52ac12f-b6f0-4e9a-bf18-c860548b7b21/4170571b-42f9-4d5f-aa31-5d572bf00d03.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/d52ac12f-b6f0-4e9a-bf18-c860548b7b21/778b6c50-b1a1-4065-a43d-f30496f901e1.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/d52ac12f-b6f0-4e9a-bf18-c860548b7b21/5bfee2a1-ab15-49a4-af52-5fd559166612.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/d52ac12f-b6f0-4e9a-bf18-c860548b7b21/b4af5c6f-3954-4cd8-abd8-bac624fae825.jpg",
+                    "code": "HERO_TV"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/d52ac12f-b6f0-4e9a-bf18-c860548b7b21/01f6186e-359f-4fe0-bba2-e2241325f9a2.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": false,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "d52ac12f-b6f0-4e9a-bf18-c860548b7b21",
+                "masterId": "b8c19e97-4fe2-437e-96f4-d7ca8d5a75ba",
+                "title": "Bhale Manchi Roju - Raj the Kidnapper",
+                "systemId": "nCDOt1R1c5t",
+                "ownerId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "ownerName": "Aditya Movies & Entertainments (India) LLP",
+                "ownerMasterId": "187a71a0-87d1-4725-aa43-d1e8a5bcb6c9",
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "e663e8c4-a946-409e-8602-76d92ed24568",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Puff Daddy",
+            "contentType": "VOD_SINGLE",
+            "systemId": "xidwMERntWi",
+            "slug": "puff-daddy",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/e663e8c4-a946-409e-8602-76d92ed24568/1d1191c5-55ca-4ddc-b9b3-8407af1f9d95.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/e663e8c4-a946-409e-8602-76d92ed24568/0fa92458-4548-4bbe-bb42-a43bacbaeec4.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/e663e8c4-a946-409e-8602-76d92ed24568/a036eb38-b77d-4f29-b03d-b44b1337b0c0.jpg",
+                    "code": "HERO_TV"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/e663e8c4-a946-409e-8602-76d92ed24568/1db0febe-5558-46b6-bdef-8ee060e81f40.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/e663e8c4-a946-409e-8602-76d92ed24568/a91e7338-be00-480c-a0f1-992f296faf10.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/e663e8c4-a946-409e-8602-76d92ed24568/e462602b-49de-4af3-a05f-c2ddc9051d80.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/e663e8c4-a946-409e-8602-76d92ed24568/0d8968ca-b078-490f-9ce1-89b484cd42be.jpg",
+                    "code": "HERO_TAB"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": true,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "e663e8c4-a946-409e-8602-76d92ed24568",
+                "masterId": "b48ee262-dce5-4f3c-ab53-6739c5e22594",
+                "title": "Puff Daddy",
+                "systemId": "xidwMERntWi",
+                "ownerId": "15208a35-b247-4f42-8915-7c7391e7500c",
+                "ownerName": "Bongo",
+                "ownerMasterId": "15208a35-b247-4f42-8915-7c7391e7500c",
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        {
+            "id": "e0c0cd78-6122-469b-8cde-122298b5e982",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "title": "Bir",
+            "contentType": "VOD_SINGLE",
+            "systemId": "nrIVgRFjD4X",
+            "slug": "bir-2020-02-14-1",
+            "images": [
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/e0c0cd78-6122-469b-8cde-122298b5e982/faf57a9d-3009-48b7-9da3-0240aa64f7d4.jpg",
+                    "code": "HERO_SMARTPHONE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/e0c0cd78-6122-469b-8cde-122298b5e982/c3e5d64a-c64e-418a-a240-7a1e0dfaae84.jpg",
+                    "code": "THUMB_PORTRAIT"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/e0c0cd78-6122-469b-8cde-122298b5e982/276a1977-75b8-4882-bad3-c9e2756c2b2f.jpg",
+                    "code": "HERO_MOBILE"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/e0c0cd78-6122-469b-8cde-122298b5e982/4e7cb389-43ff-42e5-97d8-065614da9d44.jpg",
+                    "code": "HERO_TAB"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/e0c0cd78-6122-469b-8cde-122298b5e982/5efafd33-ad7d-463e-ad21-d196920cf773.jpg",
+                    "code": "HERO_LAPTOP"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/e0c0cd78-6122-469b-8cde-122298b5e982/79a7586e-5607-4095-91ce-3b4b9295cc20.jpg",
+                    "code": "HERO_TV"
+                },
+                {
+                    "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/e0c0cd78-6122-469b-8cde-122298b5e982/fcef7ce6-16d5-439d-88c9-2e6748cbef6c.jpg",
+                    "code": "THUMB_LANDSCAPE"
+                }
+            ],
+            "payPerView": false,
+            "payPerViewInfo": null,
+            "subscription": false,
+            "subscriptionInfo": null,
+            "isRecommended": false,
+            "analytics": {
+                "id": "e0c0cd78-6122-469b-8cde-122298b5e982",
+                "masterId": "e0c0cd78-6122-469b-8cde-122298b5e982",
+                "title": "Bir",
+                "systemId": "nrIVgRFjD4X",
+                "ownerId": "15208a35-b247-4f42-8915-7c7391e7500c",
+                "ownerName": "Bongo",
+                "ownerMasterId": "15208a35-b247-4f42-8915-7c7391e7500c",
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        }
+    ],
+    "metadata": {
+        "widget": {
+            "id": "08d90eac-9caf-4391-a9be-db3144fd3f1b",
+            "name": "NEW MOVIES",
+            "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
+            "slug": "new-movies",
+            "sizeType": "REGULAR",
+            "widgetType": "RAIL_SELECTOR_PORTRAIT",
+            "sourceType": "CONTENT_LIST",
+            "orientationType": null,
+            "source": {
+                "data": [],
+                "api": "/api/v2/widget/new-movies",
+                "apiType": "COMPLETE",
+                "placeholderApi": null
+            },
+            "redirectPage": null,
+            "analytics": {
+                "id": "08d90eac-9caf-4391-a9be-db3144fd3f1b",
+                "name": "NEW MOVIES",
+                "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
+            }
+        },
+        "pagination": {
+            "limit": 100,
+            "offset": 0,
+            "previousOffset": null,
+            "nextOffset": null,
+            "currentPage": null,
+            "pageCount": 0,
+            "totalCount": 39
+        }
+    }
+}
