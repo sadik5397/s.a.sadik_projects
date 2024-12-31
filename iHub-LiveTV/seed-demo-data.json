@@ -1,67 +1,6 @@
 {
   "items": [
     {
-      "id": "11ec2da7-8b1b-42e0-b68e-1326f7a546ea",
-      "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
-      "title": "Bongo Movies",
-      "contentType": "FEED",
-      "systemId": "cV7RPLAtMbG",
-      "slug": "bongo-movies",
-      "images": [
-        {
-          "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/11ec2da7-8b1b-42e0-b68e-1326f7a546ea/034d218e-5281-4491-8e5d-997a035f5582.jpg",
-          "code": "HERO_MOBILE"
-        },
-        {
-          "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/11ec2da7-8b1b-42e0-b68e-1326f7a546ea/6eb02b53-f450-4854-a7fd-eabe7d199298.jpg",
-          "code": "HERO_SMARTPHONE"
-        },
-        {
-          "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/11ec2da7-8b1b-42e0-b68e-1326f7a546ea/95d96af7-3477-4b4e-976c-cb0478a57818.jpg",
-          "code": "HERO_TAB"
-        },
-        {
-          "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/11ec2da7-8b1b-42e0-b68e-1326f7a546ea/d7021220-d529-4e00-8856-a12130bc6f31.jpg",
-          "code": "HERO_LAPTOP"
-        },
-        {
-          "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/11ec2da7-8b1b-42e0-b68e-1326f7a546ea/501208a0-33f8-4e9d-bd8b-4f0d0ddc2389.jpg",
-          "code": "HERO_TV"
-        },
-        {
-          "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/11ec2da7-8b1b-42e0-b68e-1326f7a546ea/6aa9182f-1d94-40a3-8908-8806876dac29.png",
-          "code": "LOGO_LANDSCAPE"
-        },
-        {
-          "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/11ec2da7-8b1b-42e0-b68e-1326f7a546ea/1287966f-8af0-4f40-8374-96ff981dd873.png",
-          "code": "LOGO_SQUARE"
-        },
-        {
-          "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/11ec2da7-8b1b-42e0-b68e-1326f7a546ea/be259af3-1f99-4e50-98e5-99eeccaefc64.jpg",
-          "code": "THUMB_LANDSCAPE"
-        },
-        {
-          "location": "https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/11ec2da7-8b1b-42e0-b68e-1326f7a546ea/35329a05-9ca0-49be-9aad-796d0fb382ef.jpg",
-          "code": "THUMB_PORTRAIT"
-        }
-      ],
-      "payPerView": false,
-      "payPerViewInfo": null,
-      "subscription": false,
-      "subscriptionInfo": null,
-      "isRecommended": false,
-      "analytics": {
-        "id": "11ec2da7-8b1b-42e0-b68e-1326f7a546ea",
-        "masterId": "11ec2da7-8b1b-42e0-b68e-1326f7a546ea",
-        "title": "Bongo Movies",
-        "systemId": "cV7RPLAtMbG",
-        "ownerId": "15208a35-b247-4f42-8915-7c7391e7500c",
-        "ownerName": "Bongo",
-        "ownerMasterId": "15208a35-b247-4f42-8915-7c7391e7500c",
-        "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0"
-      }
-    },
-    {
       "id": "1147837b-9769-4dfe-9c19-e42b848f6c04",
       "platformId": "abfea462-f64d-491e-9cd9-75ee001f45b0",
       "title": "Michael - Gangster Michael",
