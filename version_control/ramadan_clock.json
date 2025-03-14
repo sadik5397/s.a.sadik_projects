@@ -1,6 +1,6 @@
 {
     "code" : 200,
-	"app-version" : "1.0.10",
-	"update-notice" : "New Update Available: Ramadan 2025",
+	"app-version" : "1.0.11",
+	"update-notice" : "New Update Available: automatic screen lock disabled on the big clock",
 	"announcement" : ""
 }
