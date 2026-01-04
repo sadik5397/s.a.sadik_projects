@@ -1,0 +1,55 @@
+[
+  { "constituency": "Dhaka-15", "constituencyBn": "ঢাকা-১৫", "candidate": "Dr. Shafiqur Rahman", "candidateBn": "ডঃ শফিকুর রহমান" },
+  { "constituency": "Dhaka-17", "constituencyBn": "ঢাকা-১৭", "candidate": "Dr. SM Khaliduzzaman", "candidateBn": "ডঃ এসএম খালিদুজ্জামান" },
+  { "constituency": "Dhaka-10", "constituencyBn": "ঢাকা-১০", "candidate": "Advocate Jasim Uddin", "candidateBn": "অ্যাডভোকেট জসীম উদ্দিন" },
+
+  { "constituency": "Sylhet-1", "constituencyBn": "সিলেট-১", "candidate": "Maulana Habibur Rahman", "candidateBn": "মাওলানা হাবিবুর রহমান" },
+  { "constituency": "Sylhet-4", "constituencyBn": "সিলেট-৪", "candidate": "Muhammad Zaynal Abedin", "candidateBn": "মুহাম্মদ জয়নাল আবেদিন" },
+
+  { "constituency": "Habiganj-1", "constituencyBn": "হবিগঞ্জ-১", "candidate": "Mohammad Shahjahan Ali", "candidateBn": "মুহাম্মদ শাহজাহান আলী" },
+
+  { "constituency": "Munshiganj-1", "constituencyBn": "মুন্সিগঞ্জ-১", "candidate": "AKM Fakruddir Razi", "candidateBn": "একেএম ফকরউদ্দিন রজি" },
+  { "constituency": "Munshiganj-2", "constituencyBn": "মুন্সিগঞ্জ-২", "candidate": "ABM Fazlur Karim", "candidateBn": "এবিএম ফজলুর করিম" },
+
+  { "constituency": "Bhola-1", "constituencyBn": "ভোলা-১", "candidate": "Md. Nazrul Islam", "candidateBn": "মোঃ নজরুল ইসলাম" },
+  { "constituency": "Bhola-2", "constituencyBn": "ভোলা-২", "candidate": "Mufti Mohammad Fazlul Karim", "candidateBn": "মুফতি মোহাম্মদ ফজলুল করিম" },
+  { "constituency": "Bhola-4", "constituencyBn": "ভোলা-৪", "candidate": "Mohammad Mostafa Kamal", "candidateBn": "মোহাম্মদ মোস্তফা কামাল" },
+
+  { "constituency": "Panchagarh-1", "constituencyBn": "পঞ্চগড়-১", "candidate": "Iqbal Hossain", "candidateBn": "ইকবাল হোসেন" },
+  { "constituency": "Panchagarh-2", "constituencyBn": "পঞ্চগড়-২", "candidate": "Muhammad Shafiullah Sufi", "candidateBn": "মুহাম্মদ সবি উল্লাহ সুফি" },
+
+  { "constituency": "Thakurgaon-1", "constituencyBn": "ঠাকুরগাঁও-১", "candidate": "Delwar Hossain", "candidateBn": "দেলোয়ার হোসেন" },
+  { "constituency": "Thakurgaon-2", "constituencyBn": "ঠাকুরগাঁও-২", "candidate": "Abdul Hakim", "candidateBn": "আব্দুল হাকিম" },
+  { "constituency": "Thakurgaon-3", "constituencyBn": "ঠাকুরগাঁও-৩", "candidate": "Mizanur Rahman", "candidateBn": "মিজানুর রহমান" },
+
+  { "constituency": "Dinajpur-1", "constituencyBn": "দিনাজপুর-১", "candidate": "Md. Matiur Rahman", "candidateBn": "মোঃ মতিুর রহমান" },
+  { "constituency": "Dinajpur-2", "constituencyBn": "দিনাজপুর-২", "candidate": "AKM Afzalul Anam", "candidateBn": "একেএম আফজালুল আনাম" },
+  { "constituency": "Dinajpur-3", "constituencyBn": "দিনাজপুর-৩", "candidate": "Mainul Alam", "candidateBn": "মাইনুল আলম" },
+  { "constituency": "Dinajpur-4", "constituencyBn": "দিনাজপুর-৪", "candidate": "Md. Aftab Uddin Molla", "candidateBn": "মোঃ আফতাব উদ্দিন মোল্লা" },
+  { "constituency": "Dinajpur-5", "constituencyBn": "দিনাজপুর-৫", "candidate": "Anwar Hossain", "candidateBn": "আনোয়ার হোসেন" },
+  { "constituency": "Dinajpur-6", "constituencyBn": "দিনাজপুর-৬", "candidate": "Md. Anwarul Islam", "candidateBn": "মোঃ আনওয়ারুল ইসলাম" },
+
+  { "constituency": "Kishoreganj-3", "constituencyBn": "কিশোরগঞ্জ-৩", "candidate": "Prof. Dr. Jihad Khan", "candidateBn": "প্রফেসর ডঃ জিহাদ খান" },
+
+  { "constituency": "Shariatpur-2", "constituencyBn": "শরীয়তপুর-২", "candidate": "Prof. Dr. Mahmud Hossain Bakoul", "candidateBn": "প্রফেসর ডঃ মাহমুদ হোসেন বকুল" },
+
+  { "constituency": "Chattogram-7", "constituencyBn": "চট্টগ্রাম-৭", "candidate": "Dr. ATM Rezaul Karim", "candidateBn": "ডঃ এটিএম রেজাউল করিম" },
+  { "constituency": "Chattogram-8", "constituencyBn": "চট্টগ্রাম-৮", "candidate": "Dr. Muhammad Abu Nasir", "candidateBn": "ডঃ মুহাম্মদ আবু নাসির" },
+  { "constituency": "Chattogram-9", "constituencyBn": "চট্টগ্রাম-৯", "candidate": "Dr. AKM Fazlul Haque", "candidateBn": "ডঃ একেএম ফজলুল হক" },
+  { "constituency": "Chattogram-12", "constituencyBn": "চট্টগ্রাম-১২", "candidate": "Dr. Faridul Alam", "candidateBn": "ডঃ ফরিদুল আলম" },
+
+  { "constituency": "Rajshahi-2", "constituencyBn": "রাজশাহী-২", "candidate": "Dr. Mohammad Jahangir", "candidateBn": "ডঃ মুহাম্মদ জাহাঙ্গীর" },
+  { "constituency": "Rajshahi-4", "constituencyBn": "রাজশাহী-৪", "candidate": "Dr. Abdul Bari", "candidateBn": "ডঃ আব্দুল বারী" },
+
+  { "constituency": "Barguna-2", "constituencyBn": "বরগুনা-২", "candidate": "Dr. Sultan Ahmed", "candidateBn": "ডঃ সুলতান আহামেদ" },
+
+  { "constituency": "Jessore-2", "constituencyBn": "যশোর-২", "candidate": "Dr. Mosleh Uddin Farid", "candidateBn": "ডঃ মসলে উদ্দিন ফরিদ" },
+
+  { "constituency": "Chandpur-2", "constituencyBn": "চাঁদপুর-২", "candidate": "Dr. Mohammad Abdul Mobin", "candidateBn": "ডঃ মুহাম্মদ আব্দুল মবিন" },
+
+  { "constituency": "Gaibandha-5", "constituencyBn": "গাইবান্ধা-৫", "candidate": "Dr. Abdur Rahim Ghosh", "candidateBn": "ডঃ আবদুর রহমান ঘোষ" },
+
+  { "constituency": "Tangail-6", "constituencyBn": "টাংগাইল-৬", "candidate": "Dr. AKM Abdul Hamid", "candidateBn": "ডঃ একেএম আব্দুল হামিদ" },
+
+  { "constituency": "Satkhira-3", "constituencyBn": "সাতক্ষীরা-৩", "candidate": "Hafiz Muha Rabiul Bashar", "candidateBn": "হাফেজ মুহাঃ রবিউল বাশার" }
+]
