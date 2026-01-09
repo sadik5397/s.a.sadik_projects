@@ -1,55 +1,898 @@
 [
-  { "constituency": "Dhaka-15", "constituencyBn": "ঢাকা-১৫", "candidate": "Dr. Shafiqur Rahman", "candidateBn": "ডঃ শফিকুর রহমান" },
-  { "constituency": "Dhaka-17", "constituencyBn": "ঢাকা-১৭", "candidate": "Dr. SM Khaliduzzaman", "candidateBn": "ডঃ এসএম খালিদুজ্জামান" },
-  { "constituency": "Dhaka-10", "constituencyBn": "ঢাকা-১০", "candidate": "Advocate Jasim Uddin", "candidateBn": "অ্যাডভোকেট জসীম উদ্দিন" },
-
-  { "constituency": "Sylhet-1", "constituencyBn": "সিলেট-১", "candidate": "Maulana Habibur Rahman", "candidateBn": "মাওলানা হাবিবুর রহমান" },
-  { "constituency": "Sylhet-4", "constituencyBn": "সিলেট-৪", "candidate": "Muhammad Zaynal Abedin", "candidateBn": "মুহাম্মদ জয়নাল আবেদিন" },
-
-  { "constituency": "Habiganj-1", "constituencyBn": "হবিগঞ্জ-১", "candidate": "Mohammad Shahjahan Ali", "candidateBn": "মুহাম্মদ শাহজাহান আলী" },
-
-  { "constituency": "Munshiganj-1", "constituencyBn": "মুন্সিগঞ্জ-১", "candidate": "AKM Fakruddir Razi", "candidateBn": "একেএম ফকরউদ্দিন রজি" },
-  { "constituency": "Munshiganj-2", "constituencyBn": "মুন্সিগঞ্জ-২", "candidate": "ABM Fazlur Karim", "candidateBn": "এবিএম ফজলুর করিম" },
-
-  { "constituency": "Bhola-1", "constituencyBn": "ভোলা-১", "candidate": "Md. Nazrul Islam", "candidateBn": "মোঃ নজরুল ইসলাম" },
-  { "constituency": "Bhola-2", "constituencyBn": "ভোলা-২", "candidate": "Mufti Mohammad Fazlul Karim", "candidateBn": "মুফতি মোহাম্মদ ফজলুল করিম" },
-  { "constituency": "Bhola-4", "constituencyBn": "ভোলা-৪", "candidate": "Mohammad Mostafa Kamal", "candidateBn": "মোহাম্মদ মোস্তফা কামাল" },
-
-  { "constituency": "Panchagarh-1", "constituencyBn": "পঞ্চগড়-১", "candidate": "Iqbal Hossain", "candidateBn": "ইকবাল হোসেন" },
-  { "constituency": "Panchagarh-2", "constituencyBn": "পঞ্চগড়-২", "candidate": "Muhammad Shafiullah Sufi", "candidateBn": "মুহাম্মদ সবি উল্লাহ সুফি" },
-
-  { "constituency": "Thakurgaon-1", "constituencyBn": "ঠাকুরগাঁও-১", "candidate": "Delwar Hossain", "candidateBn": "দেলোয়ার হোসেন" },
-  { "constituency": "Thakurgaon-2", "constituencyBn": "ঠাকুরগাঁও-২", "candidate": "Abdul Hakim", "candidateBn": "আব্দুল হাকিম" },
-  { "constituency": "Thakurgaon-3", "constituencyBn": "ঠাকুরগাঁও-৩", "candidate": "Mizanur Rahman", "candidateBn": "মিজানুর রহমান" },
-
-  { "constituency": "Dinajpur-1", "constituencyBn": "দিনাজপুর-১", "candidate": "Md. Matiur Rahman", "candidateBn": "মোঃ মতিুর রহমান" },
-  { "constituency": "Dinajpur-2", "constituencyBn": "দিনাজপুর-২", "candidate": "AKM Afzalul Anam", "candidateBn": "একেএম আফজালুল আনাম" },
-  { "constituency": "Dinajpur-3", "constituencyBn": "দিনাজপুর-৩", "candidate": "Mainul Alam", "candidateBn": "মাইনুল আলম" },
-  { "constituency": "Dinajpur-4", "constituencyBn": "দিনাজপুর-৪", "candidate": "Md. Aftab Uddin Molla", "candidateBn": "মোঃ আফতাব উদ্দিন মোল্লা" },
-  { "constituency": "Dinajpur-5", "constituencyBn": "দিনাজপুর-৫", "candidate": "Anwar Hossain", "candidateBn": "আনোয়ার হোসেন" },
-  { "constituency": "Dinajpur-6", "constituencyBn": "দিনাজপুর-৬", "candidate": "Md. Anwarul Islam", "candidateBn": "মোঃ আনওয়ারুল ইসলাম" },
-
-  { "constituency": "Kishoreganj-3", "constituencyBn": "কিশোরগঞ্জ-৩", "candidate": "Prof. Dr. Jihad Khan", "candidateBn": "প্রফেসর ডঃ জিহাদ খান" },
-
-  { "constituency": "Shariatpur-2", "constituencyBn": "শরীয়তপুর-২", "candidate": "Prof. Dr. Mahmud Hossain Bakoul", "candidateBn": "প্রফেসর ডঃ মাহমুদ হোসেন বকুল" },
-
-  { "constituency": "Chattogram-7", "constituencyBn": "চট্টগ্রাম-৭", "candidate": "Dr. ATM Rezaul Karim", "candidateBn": "ডঃ এটিএম রেজাউল করিম" },
-  { "constituency": "Chattogram-8", "constituencyBn": "চট্টগ্রাম-৮", "candidate": "Dr. Muhammad Abu Nasir", "candidateBn": "ডঃ মুহাম্মদ আবু নাসির" },
-  { "constituency": "Chattogram-9", "constituencyBn": "চট্টগ্রাম-৯", "candidate": "Dr. AKM Fazlul Haque", "candidateBn": "ডঃ একেএম ফজলুল হক" },
-  { "constituency": "Chattogram-12", "constituencyBn": "চট্টগ্রাম-১২", "candidate": "Dr. Faridul Alam", "candidateBn": "ডঃ ফরিদুল আলম" },
-
-  { "constituency": "Rajshahi-2", "constituencyBn": "রাজশাহী-২", "candidate": "Dr. Mohammad Jahangir", "candidateBn": "ডঃ মুহাম্মদ জাহাঙ্গীর" },
-  { "constituency": "Rajshahi-4", "constituencyBn": "রাজশাহী-৪", "candidate": "Dr. Abdul Bari", "candidateBn": "ডঃ আব্দুল বারী" },
-
-  { "constituency": "Barguna-2", "constituencyBn": "বরগুনা-২", "candidate": "Dr. Sultan Ahmed", "candidateBn": "ডঃ সুলতান আহামেদ" },
-
-  { "constituency": "Jessore-2", "constituencyBn": "যশোর-২", "candidate": "Dr. Mosleh Uddin Farid", "candidateBn": "ডঃ মসলে উদ্দিন ফরিদ" },
-
-  { "constituency": "Chandpur-2", "constituencyBn": "চাঁদপুর-২", "candidate": "Dr. Mohammad Abdul Mobin", "candidateBn": "ডঃ মুহাম্মদ আব্দুল মবিন" },
-
-  { "constituency": "Gaibandha-5", "constituencyBn": "গাইবান্ধা-৫", "candidate": "Dr. Abdur Rahim Ghosh", "candidateBn": "ডঃ আবদুর রহমান ঘোষ" },
-
-  { "constituency": "Tangail-6", "constituencyBn": "টাংগাইল-৬", "candidate": "Dr. AKM Abdul Hamid", "candidateBn": "ডঃ একেএম আব্দুল হামিদ" },
-
-  { "constituency": "Satkhira-3", "constituencyBn": "সাতক্ষীরা-৩", "candidate": "Hafiz Muha Rabiul Bashar", "candidateBn": "হাফেজ মুহাঃ রবিউল বাশার" }
+  {
+    "id": 14989,
+    "constituency": "Bagerhat-1",
+    "constituencyBn": "বাগেরহাট-১",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 0,
+    "constituency": "Barguna-2",
+    "constituencyBn": "বরগুনা-২",
+    "candidate": "Dr. Sultan Ahmed",
+    "candidateBn": "ডঃ সুলতান আহামেদ"
+  },
+  {
+    "id": 14710,
+    "constituency": "Barishal-1",
+    "constituencyBn": "বরিশাল-১",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14777,
+    "constituency": "Barishal-2",
+    "constituencyBn": "বরিশাল-২",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 0,
+    "constituency": "Bhola-1",
+    "constituencyBn": "ভোলা-১",
+    "candidate": "Md. Nazrul Islam",
+    "candidateBn": "মোঃ নজরুল ইসলাম"
+  },
+  {
+    "id": 0,
+    "constituency": "Bhola-2",
+    "constituencyBn": "ভোলা-২",
+    "candidate": "Mufti Mohammad Fazlul Karim",
+    "candidateBn": "মুফতি মোহাম্মদ ফজলুল করিম"
+  },
+  {
+    "id": 0,
+    "constituency": "Bhola-4",
+    "constituencyBn": "ভোলা-৪",
+    "candidate": "Mohammad Mostafa Kamal",
+    "candidateBn": "মোহাম্মদ মোস্তফা কামাল"
+  },
+  {
+    "id": 14997,
+    "constituency": "Bogura-2",
+    "constituencyBn": "বগুড়া-২",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14716,
+    "constituency": "Bogura-3",
+    "constituencyBn": "বগুড়া-৩",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 15268,
+    "constituency": "Bogura-4",
+    "constituencyBn": "বগুড়া-৪",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 15047,
+    "constituency": "Bogura-5",
+    "constituencyBn": "বগুড়া-৫",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14950,
+    "constituency": "Brahmanbaria-6",
+    "constituencyBn": "ব্রাহ্মণবাড়িয়া-৬",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 0,
+    "constituency": "Chandpur-2",
+    "constituencyBn": "চাঁদপুর-২",
+    "candidate": "Dr. Mohammad Abdul Mobin",
+    "candidateBn": "ডঃ মুহাম্মদ আব্দুল মবিন"
+  },
+  {
+    "id": 15004,
+    "constituency": "Chapainawabganj-1",
+    "constituencyBn": "চাঁপাইনবাবগঞ্জ-১",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 15009,
+    "constituency": "Chapainawabganj-2",
+    "constituencyBn": "চাঁপাইনবাবগঞ্জ-২",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14998,
+    "constituency": "Chapainawabganj-3",
+    "constituencyBn": "চাঁপাইনবাবগঞ্জ-৩",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14941,
+    "constituency": "Chattogram-1",
+    "constituencyBn": "চট্টগ্রাম-১",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 0,
+    "constituency": "Chattogram-12",
+    "constituencyBn": "চট্টগ্রাম-১২",
+    "candidate": "Dr. Faridul Alam",
+    "candidateBn": "ডঃ ফরিদুল আলম"
+  },
+  {
+    "id": 14987,
+    "constituency": "Chattogram-14",
+    "constituencyBn": "চট্টগ্রাম-১৪",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14717,
+    "constituency": "Chattogram-15",
+    "constituencyBn": "চট্টগ্রাম-১৫",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 15024,
+    "constituency": "Chattogram-16",
+    "constituencyBn": "চট্টগ্রাম-১৬",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14873,
+    "constituency": "Chattogram-2",
+    "constituencyBn": "চট্টগ্রাম-২",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14912,
+    "constituency": "Chattogram-3",
+    "constituencyBn": "চট্টগ্রাম-৩",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14910,
+    "constituency": "Chattogram-4",
+    "constituencyBn": "চট্টগ্রাম-৪",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 0,
+    "constituency": "Chattogram-7",
+    "constituencyBn": "চট্টগ্রাম-৭",
+    "candidate": "Dr. ATM Rezaul Karim",
+    "candidateBn": "ডঃ এটিএম রেজাউল করিম"
+  },
+  {
+    "id": 0,
+    "constituency": "Chattogram-8",
+    "constituencyBn": "চট্টগ্রাম-৮",
+    "candidate": "Dr. Muhammad Abu Nasir",
+    "candidateBn": "ডঃ মুহাম্মদ আবু নাসির"
+  },
+  {
+    "id": 0,
+    "constituency": "Chattogram-9",
+    "constituencyBn": "চট্টগ্রাম-৯",
+    "candidate": "Dr. AKM Fazlul Haque",
+    "candidateBn": "ডঃ একেএম ফজলুল হক"
+  },
+  {
+    "id": 14711,
+    "constituency": "Chuadanga-1",
+    "constituencyBn": "চুয়াডাঙ্গা-১",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 15028,
+    "constituency": "Chuadanga-2",
+    "constituencyBn": "চুয়াডাঙ্গা-২",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14869,
+    "constituency": "Cox's Bazar-3",
+    "constituencyBn": "কক্সবাজার-৩",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14715,
+    "constituency": "Cumilla-11",
+    "constituencyBn": "কুমিল্লা-১১",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 15052,
+    "constituency": "Cumilla-5",
+    "constituencyBn": "কুমিল্লা-৫",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 15035,
+    "constituency": "Dhaka-1",
+    "constituencyBn": "ঢাকা-১",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14879,
+    "constituency": "Dhaka-10",
+    "constituencyBn": "ঢাকা-১০",
+    "candidate": "Advocate Jasim Uddin",
+    "candidateBn": "অ্যাডভোকেট জসীম উদ্দিন"
+  },
+  {
+    "id": 14949,
+    "constituency": "Dhaka-11",
+    "constituencyBn": "ঢাকা-১১",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 15036,
+    "constituency": "Dhaka-13",
+    "constituencyBn": "ঢাকা-১৩",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14914,
+    "constituency": "Dhaka-15",
+    "constituencyBn": "ঢাকা-১৫",
+    "candidate": "Dr. Shafiqur Rahman",
+    "candidateBn": "ডঃ শফিকুর রহমান"
+  },
+  {
+    "id": 14917,
+    "constituency": "Dhaka-16",
+    "constituencyBn": "ঢাকা-১৬",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14881,
+    "constituency": "Dhaka-17",
+    "constituencyBn": "ঢাকা-১৭",
+    "candidate": "Dr. SM Khaliduzzaman",
+    "candidateBn": "ডঃ এসএম খালিদুজ্জামান"
+  },
+  {
+    "id": 14864,
+    "constituency": "Dhaka-18",
+    "constituencyBn": "ঢাকা-১৮",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14948,
+    "constituency": "Dhaka-19",
+    "constituencyBn": "ঢাকা-১৯",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 15045,
+    "constituency": "Dhaka-4",
+    "constituencyBn": "ঢাকা-৪",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14982,
+    "constituency": "Dhaka-5",
+    "constituencyBn": "ঢাকা-৫",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 15111,
+    "constituency": "Dinajpur-1",
+    "constituencyBn": "দিনাজপুর-১",
+    "candidate": "Md. Matiur Rahman",
+    "candidateBn": "মোঃ মতিুর রহমান"
+  },
+  {
+    "id": 15046,
+    "constituency": "Dinajpur-2",
+    "constituencyBn": "দিনাজপুর-২",
+    "candidate": "AKM Afzalul Anam",
+    "candidateBn": "একেএম আফজালুল আনাম"
+  },
+  {
+    "id": 15055,
+    "constituency": "Dinajpur-3",
+    "constituencyBn": "দিনাজপুর-৩",
+    "candidate": "Mainul Alam",
+    "candidateBn": "মাইনুল আলম"
+  },
+  {
+    "id": 15127,
+    "constituency": "Dinajpur-4",
+    "constituencyBn": "দিনাজপুর-৪",
+    "candidate": "Md. Aftab Uddin Molla",
+    "candidateBn": "মোঃ আফতাব উদ্দিন মোল্লা"
+  },
+  {
+    "id": 15145,
+    "constituency": "Dinajpur-5",
+    "constituencyBn": "দিনাজপুর-৫",
+    "candidate": "Anwar Hossain",
+    "candidateBn": "আনোয়ার হোসেন"
+  },
+  {
+    "id": 15134,
+    "constituency": "Dinajpur-6",
+    "constituencyBn": "দিনাজপুর-৬",
+    "candidate": "Md. Anwarul Islam",
+    "candidateBn": "মোঃ আনওয়ারুল ইসলাম"
+  },
+  {
+    "id": 14867,
+    "constituency": "Faridpur-1",
+    "constituencyBn": "ফরিদপুর-১",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14866,
+    "constituency": "Faridpur-2",
+    "constituencyBn": "ফরিদপুর-২",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14911,
+    "constituency": "Faridpur-3",
+    "constituencyBn": "ফরিদপুর-৩",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 15042,
+    "constituency": "Feni-1",
+    "constituencyBn": "ফেনী-১",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14942,
+    "constituency": "Gaibandha-1",
+    "constituencyBn": "গাইবান্ধা-১",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14918,
+    "constituency": "Gaibandha-2",
+    "constituencyBn": "গাইবান্ধা-২",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14818,
+    "constituency": "Gaibandha-4",
+    "constituencyBn": "গাইবান্ধা-৪",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14819,
+    "constituency": "Gaibandha-5",
+    "constituencyBn": "গাইবান্ধা-৫",
+    "candidate": "Dr. Abdur Rahim Ghosh",
+    "candidateBn": "ডঃ আবদুর রহমান ঘোষ"
+  },
+  {
+    "id": 14978,
+    "constituency": "Gazipur-2",
+    "constituencyBn": "গাজীপুর-২",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14976,
+    "constituency": "Gazipur-5",
+    "constituencyBn": "গাজীপুর-৫",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 0,
+    "constituency": "Habiganj-1",
+    "constituencyBn": "হবিগঞ্জ-১",
+    "candidate": "Mohammad Shahjahan Ali",
+    "candidateBn": "মুহাম্মদ শাহজাহান আলী"
+  },
+  {
+    "id": 15057,
+    "constituency": "Jamalpur-3",
+    "constituencyBn": "জামালপুর-৩",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14994,
+    "constituency": "Jashore-1",
+    "constituencyBn": "যশোর-১",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 15014,
+    "constituency": "Jashore-2",
+    "constituencyBn": "যশোর-২",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 15126,
+    "constituency": "Jashore-3",
+    "constituencyBn": "যশোর-৩",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 15020,
+    "constituency": "Jashore-5",
+    "constituencyBn": "যশোর-৫",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 15031,
+    "constituency": "Jashore-6",
+    "constituencyBn": "যশোর-৬",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 0,
+    "constituency": "Jessore-2",
+    "constituencyBn": "যশোর-২",
+    "candidate": "Dr. Mosleh Uddin Farid",
+    "candidateBn": "ডঃ মসলে উদ্দিন ফরিদ"
+  },
+  {
+    "id": 14974,
+    "constituency": "Jhalakathi-1",
+    "constituencyBn": "ঝালকাঠি-১",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14985,
+    "constituency": "Jhenaidah-1",
+    "constituencyBn": "ঝিনাইদহ-১",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14713,
+    "constituency": "Jhenaidah-2",
+    "constituencyBn": "ঝিনাইদহ-২",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14871,
+    "constituency": "Jhenaidah-3",
+    "constituencyBn": "ঝিনাইদহ-৩",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14988,
+    "constituency": "Joypurhat-1",
+    "constituencyBn": "জয়পুরহাট-১",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 15169,
+    "constituency": "Khulna-2",
+    "constituencyBn": "খুলনা-২",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14983,
+    "constituency": "Khulna-4",
+    "constituencyBn": "খুলনা-৪",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14863,
+    "constituency": "Khulna-5",
+    "constituencyBn": "খুলনা-৫",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14838,
+    "constituency": "Khulna-6",
+    "constituencyBn": "খুলনা-৬",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 0,
+    "constituency": "Kishoreganj-3",
+    "constituencyBn": "কিশোরগঞ্জ-৩",
+    "candidate": "Prof. Dr. Jihad Khan",
+    "candidateBn": "প্রফেসর ডঃ জিহাদ খান"
+  },
+  {
+    "id": 15032,
+    "constituency": "Kurigram-3",
+    "constituencyBn": "কুড়িগ্রাম-৩",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14981,
+    "constituency": "Kushtia-1",
+    "constituencyBn": "কুষ্টিয়া-১",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14972,
+    "constituency": "Kushtia-2",
+    "constituencyBn": "কুষ্টিয়া-২",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14973,
+    "constituency": "Kushtia-3",
+    "constituencyBn": "কুষ্টিয়া-৩",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14980,
+    "constituency": "Kushtia-4",
+    "constituencyBn": "কুষ্টিয়া-৪",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14996,
+    "constituency": "Lalmonirhat-1",
+    "constituencyBn": "লালমনিরহাট-১",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14718,
+    "constituency": "Manikganj-3",
+    "constituencyBn": "মানিকগঞ্জ-৩",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 0,
+    "constituency": "Munshiganj-1",
+    "constituencyBn": "মুন্সিগঞ্জ-১",
+    "candidate": "AKM Fakruddir Razi",
+    "candidateBn": "একেএম ফকরউদ্দিন রজি"
+  },
+  {
+    "id": 0,
+    "constituency": "Munshiganj-2",
+    "constituencyBn": "মুন্সিগঞ্জ-২",
+    "candidate": "ABM Fazlur Karim",
+    "candidateBn": "এবিএম ফজলুর করিম"
+  },
+  {
+    "id": 15265,
+    "constituency": "Naogaon-2",
+    "constituencyBn": "নওগাঁ-২",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 15215,
+    "constituency": "Naogaon-5",
+    "constituencyBn": "নওগাঁ-৫",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 15188,
+    "constituency": "Naogaon-6",
+    "constituencyBn": "নওগাঁ-৬",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14984,
+    "constituency": "Narail-1",
+    "constituencyBn": "নড়াইল-১",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14712,
+    "constituency": "Narail-2",
+    "constituencyBn": "নড়াইল-২",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 15241,
+    "constituency": "Narsingdi-3",
+    "constituencyBn": "নরসিংদী-৩",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 15226,
+    "constituency": "Narsingdi-4",
+    "constituencyBn": "নরসিংদী-৪",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14913,
+    "constituency": "Natore-4",
+    "constituencyBn": "নাটোর-৪",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14992,
+    "constituency": "Nilphamari-1",
+    "constituencyBn": "নীলফামারী-১",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14993,
+    "constituency": "Nilphamari-2",
+    "constituencyBn": "নীলফামারী-২",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 15089,
+    "constituency": "Pabna-1",
+    "constituencyBn": "পাবনা-১",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 15088,
+    "constituency": "Pabna-5",
+    "constituencyBn": "পাবনা-৫",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 0,
+    "constituency": "Panchagarh-1",
+    "constituencyBn": "পঞ্চগড়-১",
+    "candidate": "Iqbal Hossain",
+    "candidateBn": "ইকবাল হোসেন"
+  },
+  {
+    "id": 0,
+    "constituency": "Panchagarh-2",
+    "constituencyBn": "পঞ্চগড়-২",
+    "candidate": "Muhammad Shafiullah Sufi",
+    "candidateBn": "মুহাম্মদ সবি উল্লাহ সুফি"
+  },
+  {
+    "id": 14727,
+    "constituency": "Patuakhali-1",
+    "constituencyBn": "পটুয়াখালী-১",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 15184,
+    "constituency": "Patuakhali-2",
+    "constituencyBn": "পটুয়াখালী-২",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 15222,
+    "constituency": "Patuakhali-4",
+    "constituencyBn": "পটুয়াখালী-৪",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 15015,
+    "constituency": "Pirojpur-1",
+    "constituencyBn": "পিরোজপুর-১",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 15258,
+    "constituency": "Rajshahi-1",
+    "constituencyBn": "রাজশাহী-১",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14714,
+    "constituency": "Rajshahi-2",
+    "constituencyBn": "রাজশাহী-২",
+    "candidate": "Dr. Mohammad Jahangir",
+    "candidateBn": "ডঃ মুহাম্মদ জাহাঙ্গীর"
+  },
+  {
+    "id": 14940,
+    "constituency": "Rajshahi-4",
+    "constituencyBn": "রাজশাহী-৪",
+    "candidate": "Dr. Abdul Bari",
+    "candidateBn": "ডঃ আব্দুল বারী"
+  },
+  {
+    "id": 14885,
+    "constituency": "Rajshahi-6",
+    "constituencyBn": "রাজশাহী-৬",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14874,
+    "constituency": "Rangpur-2",
+    "constituencyBn": "রংপুর-২",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 15256,
+    "constituency": "Rangpur-3",
+    "constituencyBn": "রংপুর-৩",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14889,
+    "constituency": "Rangpur-6",
+    "constituencyBn": "রংপুর-৬",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14944,
+    "constituency": "Satkhira-1",
+    "constituencyBn": "সাতক্ষীরা-১",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 15233,
+    "constituency": "Satkhira-2",
+    "constituencyBn": "সাতক্ষীরা-২",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 15217,
+    "constituency": "Satkhira-3",
+    "constituencyBn": "সাতক্ষীরা-৩",
+    "candidate": "Hafiz Muha Rabiul Bashar",
+    "candidateBn": "হাফেজ মুহাঃ রবিউল বাশার"
+  },
+  {
+    "id": 14977,
+    "constituency": "Satkhira-4",
+    "constituencyBn": "সাতক্ষীরা-৪",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 0,
+    "constituency": "Shariatpur-2",
+    "constituencyBn": "শরীয়তপুর-২",
+    "candidate": "Prof. Dr. Mahmud Hossain Bakoul",
+    "candidateBn": "প্রফেসর ডঃ মাহমুদ হোসেন বকুল"
+  },
+  {
+    "id": 15016,
+    "constituency": "Sirajganj-1",
+    "constituencyBn": "সিরাজগঞ্জ-১",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14882,
+    "constituency": "Sirajganj-4",
+    "constituencyBn": "সিরাজগঞ্জ-৪",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14883,
+    "constituency": "Sirajganj-5",
+    "constituencyBn": "সিরাজগঞ্জ-৫",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 14915,
+    "constituency": "Sirajganj-6",
+    "constituencyBn": "সিরাজগঞ্জ-৬",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 0,
+    "constituency": "Sylhet-1",
+    "constituencyBn": "সিলেট-১",
+    "candidate": "Maulana Habibur Rahman",
+    "candidateBn": "মাওলানা হাবিবুর রহমান"
+  },
+  {
+    "id": 14990,
+    "constituency": "Sylhet-3",
+    "constituencyBn": "সিলেট-৩",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 0,
+    "constituency": "Sylhet-4",
+    "constituencyBn": "সিলেট-৪",
+    "candidate": "Muhammad Zaynal Abedin",
+    "candidateBn": "মুহাম্মদ জয়নাল আবেদিন"
+  },
+  {
+    "id": 14991,
+    "constituency": "Sylhet-6",
+    "constituencyBn": "সিলেট-৬",
+    "candidate": "",
+    "candidateBn": ""
+  },
+  {
+    "id": 0,
+    "constituency": "Tangail-6",
+    "constituencyBn": "টাংগাইল-৬",
+    "candidate": "Dr. AKM Abdul Hamid",
+    "candidateBn": "ডঃ একেএম আব্দুল হামিদ"
+  },
+  {
+    "id": 14880,
+    "constituency": "Thakurgaon-1",
+    "constituencyBn": "ঠাকুরগাঁও-১",
+    "candidate": "Delwar Hossain",
+    "candidateBn": "দেলোয়ার হোসেন"
+  },
+  {
+    "id": 14995,
+    "constituency": "Thakurgaon-2",
+    "constituencyBn": "ঠাকুরগাঁও-২",
+    "candidate": "Abdul Hakim",
+    "candidateBn": "আব্দুল হাকিম"
+  },
+  {
+    "id": 0,
+    "constituency": "Thakurgaon-3",
+    "constituencyBn": "ঠাকুরগাঁও-৩",
+    "candidate": "Mizanur Rahman",
+    "candidateBn": "মিজানুর রহমান"
+  }
 ]
