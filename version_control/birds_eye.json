@@ -1,5 +1,5 @@
 {
-  "code": 200,
+  "statusCode": 200,
   "latestAppVersion": "1.0.9",
   "forceUpdate" : true,
   "updateNotice": "New Update Available: Please update to the latest version",
