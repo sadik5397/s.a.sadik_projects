@@ -1,0 +1,11 @@
+{
+  "code": 200,
+  "latestAppVersion": "1.0.9",
+  "forceUpdate" : true,
+  "updateNotice": "New Update Available: Please update to the latest version",
+  "bannerImg": "https://app.bdbirdseye.org/meta.png",
+  "whatsNew": [
+    "Lorem Ipsum",
+    "Dolor Set"
+  ]
+}
