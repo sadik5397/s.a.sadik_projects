@@ -1,11 +1,10 @@
 {
   "statusCode": 200,
-  "latestAppVersion": "1.0.12",
-  "forceUpdate" : true,
+  "latestAppVersion": "1.0.14",
+  "forceUpdate" : false,
   "updateNotice": "New Update Available: Please update to the latest version",
   "bannerImg": "https://app.bdbirdseye.org/meta.png",
   "whatsNew": [
-    "Contributor List By Your Constituency",
-    "Emergency Contact List"
+    "Advanced Search on Voter List"
   ]
 }
