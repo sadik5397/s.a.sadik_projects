@@ -37,29 +37,29 @@
     },
     "featureSection": {
         "title": "Designed with\nThe applicant in mind.",
-        "subtitle": "The full monty spiffing good time no biggie cack grub fantastic.",
+        "subtitle": "Powerful features built for easy expense tracking",
         "features": [
-            {
-                "title": "Searching",
-                "description": "Mucker plastered bugger all mate morish are.",
-                "icon": "https://appiev.quomodosoft.com/static/media/counter-icon-1.e6228c7a.svg"
-            },
-            {
-                "title": "Designing",
-                "description": "Mucker plastered bugger all mate morish are.",
-                "icon": "https://appiev.quomodosoft.com/static/media/counter-icon-1.e6228c7a.svg"
-            },
-            {
-                "title": "Building",
-                "description": "Mucker plastered bugger all mate morish are.",
-                "icon": "https://appiev.quomodosoft.com/static/media/counter-icon-1.e6228c7a.svg"
-            },
-            {
-                "title": "Suporting",
-                "description": "Mucker plastered bugger all mate morish are.",
-                "icon": "https://appiev.quomodosoft.com/static/media/counter-icon-4.179fe5bc.svg"
-            }
-        ]
+    {
+        "title": "Meal Tracking",
+        "description": "Easily track daily meals for each member and calculate totals automatically without manual counting.",
+        "icon": "https://appiev.quomodosoft.com/static/media/counter-icon-1.e6228c7a.svg"
+    },
+    {
+        "title": "Bazar Management",
+        "description": "Record bazar expenses, assign costs, and keep everything organized with clear expense history.",
+        "icon": "https://appiev.quomodosoft.com/static/media/counter-icon-1.e6228c7a.svg"
+    },
+    {
+        "title": "Finance Automation",
+        "description": "Automatically calculate meal rates, individual costs, and monthly balances with zero confusion.",
+        "icon": "https://appiev.quomodosoft.com/static/media/counter-icon-1.e6228c7a.svg"
+    },
+    {
+        "title": "Smooth Onboarding",
+        "description": "Get started quickly with a simple setup process designed for mess members of all ages.",
+        "icon": "https://appiev.quomodosoft.com/static/media/counter-icon-4.179fe5bc.svg"
+    }
+]
     },
     "videoSection": {
         "title": "Watch the two-minute video to learn how",
