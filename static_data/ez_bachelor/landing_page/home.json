@@ -3,7 +3,7 @@
     "siteDescription": "Appie is a powerful app that can help you manage your tasks efficiently and effectively.",
     "metaImage" : "https://appiev.quomodosoft.com/static/media/preview.5f4d2f7e.png",
     "header": {
-        "logo": "AppieEZ Bachelor Logo",
+        "logo": "EZ Bachelor Logo",
         "logoUrl": "https://ibblportal.islamibankbd.com/images/logonewblack.png",
         "ctaButtons": [
             {
@@ -17,22 +17,22 @@
         ]
     },
     "heroSection": {
-        "title": "Welcome To Appie",
-        "subtitle": "Manage it all in this all-new system",
-        "description": "Short marketing blurb about the product.",
+        "title": "Welcome To EZ Bachelor",
+        "subtitle": "Automatically manage your meals & expenses",
+        "description": "Stop fighting over who ate the extra egg and let the app handle it.",
         "downloadButtons": [
             {
-                "label": "Download for Android",
-                "link": "#"
+                "label": "Download Android",
+                "link": "https://github.com/sadik5397/s.a.sadik_projects/raw/main/static_data/ez_bachelor/app.apk"
             },
             {
                 "label": "Use Web App",
-                "link": "#"
+                "link": "https://app.ezbachelor.com"
             }
         ],
         "heroImages": [
-            "https://appiev.quomodosoft.com/static/media/hero-thumb-1.06b8d151.png",
-            "https://appiev.quomodosoft.com/static/media/features-thumb-1.1f747549.png"
+            "home/home-hero-screenshot.png",
+            "home/home-hero-widget.png"
         ]
     },
     "featureSection": {
