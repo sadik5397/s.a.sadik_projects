@@ -1,0 +1,344 @@
+{
+    "siteTitle": "EZ Bachelor",
+    "siteDescription": "Appie is a powerful app that can help you manage your tasks efficiently and effectively.",
+    "metaImage" : "https://appiev.quomodosoft.com/static/media/preview.5f4d2f7e.png",
+    "header": {
+        "logo": "AppieEZ Bachelor Logo",
+        "logoUrl": "https://ibblportal.islamibankbd.com/images/logonewblack.png",
+        "ctaButtons": [
+            {
+                "label": "Call Us",
+                "link": "/call"
+            },
+            {
+                "label": "Download App",
+                "link": "/download"
+            }
+        ]
+    },
+    "heroSection": {
+        "title": "Welcome To Appie",
+        "subtitle": "Manage it all in this all-new system",
+        "description": "Short marketing blurb about the product.",
+        "downloadButtons": [
+            {
+                "label": "Download for Android",
+                "link": "#"
+            },
+            {
+                "label": "Use Web App",
+                "link": "#"
+            }
+        ],
+        "heroImages": [
+            "https://appiev.quomodosoft.com/static/media/hero-thumb-1.06b8d151.png",
+            "https://appiev.quomodosoft.com/static/media/features-thumb-1.1f747549.png"
+        ]
+    },
+    "featureSection": {
+        "title": "Designed with\nThe applicant in mind.",
+        "subtitle": "The full monty spiffing good time no biggie cack grub fantastic.",
+        "features": [
+            {
+                "title": "Searching",
+                "description": "Mucker plastered bugger all mate morish are.",
+                "icon": "https://appiev.quomodosoft.com/static/media/counter-icon-1.e6228c7a.svg"
+            },
+            {
+                "title": "Designing",
+                "description": "Mucker plastered bugger all mate morish are.",
+                "icon": "https://appiev.quomodosoft.com/static/media/counter-icon-1.e6228c7a.svg"
+            },
+            {
+                "title": "Building",
+                "description": "Mucker plastered bugger all mate morish are.",
+                "icon": "https://appiev.quomodosoft.com/static/media/counter-icon-1.e6228c7a.svg"
+            },
+            {
+                "title": "Suporting",
+                "description": "Mucker plastered bugger all mate morish are.",
+                "icon": "https://appiev.quomodosoft.com/static/media/counter-icon-4.179fe5bc.svg"
+            }
+        ]
+    },
+    "videoSection": {
+        "title": "Watch the two-minute video to learn how",
+        "subtitle": "The wireless cheesed on your bike mate zonked a load of old tosh hunky dory it's all gone to pot haggle william car boot pear shaped geeza.",
+        "videoUrl": "https://www.youtube.com/watch?v=6wQjuplvypI&pp=ugUEEgJlbg%3D%3D",
+        "videoThumbUrl": "http://localhost:8082/img/video-thumb-1.93e738d1.jpg",
+        "ctaButton": "Get Started",
+        "ctaButtonUrl": "/get-started",
+        "carouselImages": [
+            "http://localhost:8082/img/carousel-1.jpg",
+            "http://localhost:8082/img/carousel-2.jpg",
+            "http://localhost:8082/img/carousel-3.jpg"
+        ]
+    },
+    "showCaseSection": {
+        "title": "Creative app showcase",
+        "subtitle": "The app provides design and digital marketing.",
+        "carouselImages": [
+            "http://localhost:8082/img/carousel-1.jpg",
+            "http://localhost:8082/img/carousel-2.jpg",
+            "http://localhost:8082/img/carousel-3.jpg"
+        ]
+    },
+    "testimonialSection": {
+        "testimonials": [
+            {
+                "avatarUrl": "http://localhost:8082/img/carousel-3.jpg",
+                "author": "Hanson Deck",
+                "date": "Hanson Deck",
+                "ratingStar": "5",
+                "comment": "Why I say old chap that is spiffing lurgy Oxford cracking goal bleeder, bog-standard Harry brilliant mush a blinding shot starkers."
+            },
+            {
+                "avatarUrl": "http://localhost:8082/img/carousel-3.jpg",
+                "author": "Hanson Deck",
+                "date": "Hanson Deck",
+                "ratingStar": "5",
+                "comment": "Why I say old chap that is spiffing lurgy Oxford cracking goal bleeder, bog-standard Harry brilliant mush a blinding shot starkers."
+            },
+            {
+                "avatarUrl": "http://localhost:8082/img/carousel-3.jpg",
+                "author": "Hanson Deck",
+                "date": "Hanson Deck",
+                "ratingStar": "5",
+                "comment": "Why I say old chap that is spiffing lurgy Oxford cracking goal bleeder, bog-standard Harry brilliant mush a blinding shot starkers."
+            }
+        ]
+    },
+    "pricingSection": {
+        "title": "Choose your plan",
+        "subtitle": "Different layouts and styles for team sections.",
+        "plans": [
+            {
+                "name": "Fresh Monthly",
+                "price": "4",
+                "billingCycle": "per month",
+                "features": [
+                    "14 day free trial",
+                    "60-day chat history",
+                    "15 GB cloud storage"
+                ],
+                "mostPopular": true
+            },
+            {
+                "name": "Sweet Monthly",
+                "price": "16",
+                "billingCycle": "per month",
+                "features": [
+                    "60-day chat history",
+                    "50 GB cloud storage",
+                    "24/7 Support"
+                ]
+            },
+            {
+                "name": "Juicy Monthly",
+                "price": "27",
+                "billingCycle": "per month",
+                "features": [
+                    "60-day chat history",
+                    "Data security",
+                    "100 GB cloud storage"
+                ]
+            }
+        ],
+        "yearly": [
+            {
+                "name": "Fresh Yearly",
+                "price": "32",
+                "billingCycle": "per year",
+                "features": [
+                    "14 day free trial",
+                    "60-day chat history",
+                    "15 GB cloud storage"
+                ]
+            },
+            {
+                "name": "Sweet Yearly",
+                "price": "116",
+                "billingCycle": "per year",
+                "features": [
+                    "60-day chat history",
+                    "50 GB cloud storage",
+                    "24/7 Support"
+                ],
+                "mostPopular": true
+            },
+            {
+                "name": "Juicy Yearly",
+                "price": "227",
+                "billingCycle": "per year",
+                "features": [
+                    "60-day chat history",
+                    "Data security",
+                    "100 GB cloud storage"
+                ]
+            }
+        ]
+    },
+    "faqSection": {
+        "title": "Frequently asked questions",
+        "subtitle": "Different layouts and styles for team sections.",
+        "qna": [
+            {
+                "ques": "Where do I usually find FAQs in a page?",
+                "ans": "Naff Oxford vagabond in my flat chinwag blatant grub tomfoolery that I bits and bobs up the duff cras boot bevvy no biggie.",
+            },
+            {
+                "ques": "Where do I usually find FAQs in a page?",
+                "ans": "Naff Oxford vagabond in my flat chinwag blatant grub tomfoolery that I bits and bobs up the duff cras boot bevvy no biggie.",
+            },
+            {
+                "ques": "Where do I usually find FAQs in a page?",
+                "ans": "Naff Oxford vagabond in my flat chinwag blatant grub tomfoolery that I bits and bobs up the duff cras boot bevvy no biggie.",
+            }
+        ]
+    },
+    "blogSection": {
+        "title": "Latest blog posts",
+        "subtitle": "Different layouts and styles for team sections.",
+        "blogs": [
+            {
+                "title": "Introducing New Apps Design for our iOS App",
+                "category": "Saas & App",
+                "date": "March 10, 2022",
+                "thumbUrl": "http://localhost:8082/img/blog-thumb-1.8e1f3f6c.jpg",
+                "link": "#"
+            },
+            {
+                "title": "How to bring Dolce to your company",
+                "category": "Saas & App",
+                "thumbUrl": "http://localhost:8082/img/blog-thumb-1.8e1f3f6c.jpg",
+                "date": "March 10, 2022",
+                "link": "#"
+            },
+            {
+                "title": "Introducing New Apps Design for our iOS App",
+                "category": "Saas & App",
+                "date": "March 10, 2022",
+                "thumbUrl": "http://localhost:8082/img/blog-thumb-1.8e1f3f6c.jpg",
+                "link": "#"
+            }
+        ]
+    },
+    "downloadSection": {
+        "subtitle": "Download Our App",
+        "title": "App is available\nfree on app store",
+        "description": "Jolly good quaint james bond victoria sponge happy days cras arse over blatant.",
+        "featureImage": "https://appiev.quomodosoft.com/static/media/download-thumb.5f3f3f1d.png",
+        "downloadButtons": [
+            {
+                "label": "Download for iOS",
+                "link": "#"
+            },
+            {
+                "label": "Download for Android",
+                "link": "#"
+            }
+        ]
+    },
+    "statisticSection": {
+        "title": "How does it work",
+        "subtitle": "The full monty spiffing good time no biggie cack grub fantastic.",
+        "statistics": [
+            {
+                "icon": "https://appiev.quomodosoft.com/static/media/counter-icon-1.e6228c7a.svg",
+                "label": "Active Installation",
+                "value": "45k+"
+            },
+            {
+                "icon": "https://appiev.quomodosoft.com/static/media/counter-icon-1.e6228c7a.svg",
+                "label": "Active Users",
+                "value": "108+"
+            },
+            {
+                "icon": "https://appiev.quomodosoft.com/static/media/counter-icon-1.e6228c7a.svg",
+                "label": "Feedback",
+                "value": "30k+"
+            },
+            {
+                "icon": "https://appiev.quomodosoft.com/static/media/counter-icon-1.e6228c7a.svg",
+                "label": "Other Metric",
+                "value": "725k+"
+            }
+        ]
+    },
+    "footer": {
+        "logo": "AppieEZ Bachelor Logo",
+        "logoUrl": "https://ibblportal.islamibankbd.com/images/logonewblack.png",
+        "description": "Appie is a powerful app that can help you manage your tasks efficiently and effectively.",
+        "readMoreLink": "#",
+        "socialLinks": {
+            "facebook": "https://www.facebook.com/",
+            "twitter": "https://twitter.com/",
+            "linkedin": "https://www.linkedin.com/",
+            "instagram": "https://www.instagram.com/"
+        },
+        "companyLinks": [
+            {
+                "title": "About Us",
+                "link": "#"
+            },
+            {
+                "title": "Blog",
+                "link": "#"
+            },
+            {
+                "title": "Contact",
+                "link": "#"
+            },
+            {
+                "title": "Pricing",
+                "link": "#"
+            },
+            {
+                "title": "Testimonials",
+                "link": "#"
+            }
+        ],
+        "supportLinks": [
+            {
+                "title": "Help Center",
+                "link": "#"
+            },
+            {
+                "title": "Terms of Service",
+                "link": "#"
+            },
+            {
+                "title": "Legal",
+                "link": "#"
+            },
+            {
+                "title": "Privacy Policy",
+                "link": "#"
+            },
+            {
+                "title": "Status",
+                "link": "#"
+            }
+        ],
+        "contact": {
+            "email": "support@appie.com",
+            "phone": "+(642) 342 762 44",
+            "address": "442 Belle Terre St Floor 7, San Francisco, AV 4206"
+        },
+        "appDownload": [
+            {
+                "platform": "Android",
+                "link": "#"
+            },
+            {
+                "platform": "iOS",
+                "link": "#"
+            },
+            {
+                "platform": "Web",
+                "link": "#"
+            }
+        ],
+        "copyright": "© 2026 EZ Bachelor. All rights reserved | Developed by S.a. Sadik"
+    }
+}
