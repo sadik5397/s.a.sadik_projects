@@ -1,10 +1,10 @@
 {
     "siteTitle": "EZ Bachelor",
     "siteDescription": "Appie is a powerful app that can help you manage your tasks efficiently and effectively.",
-    "metaImage" : "https://appiev.quomodosoft.com/static/media/preview.5f4d2f7e.png",
+    "metaImage" : "images/meta.png",
     "header": {
         "logo": "EZ Bachelor Logo",
-        "logoUrl": "https://ibblportal.islamibankbd.com/images/logonewblack.png",
+        "logoUrl": "images/logo-wide.png",
         "ctaButtons": [
             {
                 "label": "Call Us",
@@ -31,8 +31,8 @@
             }
         ],
         "heroImages": [
-            "home/home-hero-screenshot.png",
-            "home/home-hero-widget.png"
+            "images/home-hero-screenshot.png",
+            "images/home-hero-widget.png"
         ]
     },
     "featureSection": {
