@@ -4,17 +4,13 @@
     "metaImage" : "images/meta.png",
     "header": {
         "logo": "EZ Bachelor Logo",
-        "logoUrl": "images/logo-wide.png",
-        "ctaButtons": [
-            {
-                "label": "Call Us",
-                "link": "/call"
-            },
+        "logoUrl": "images/logo.png",
+        "ctaButtons": 
             {
                 "label": "Download App",
                 "link": "/download"
             }
-        ]
+        
     },
     "heroSection": {
         "title": "Welcome To EZ Bachelor",
