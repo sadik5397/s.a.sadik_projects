@@ -42,45 +42,50 @@
     {
         "title": "Meal Tracking",
         "description": "Easily track daily meals for each member and calculate totals automatically without manual counting.",
-        "icon": "https://appiev.quomodosoft.com/static/media/counter-icon-1.e6228c7a.svg"
+        "icon": "images/meal_tracking.png"
     },
     {
         "title": "Bazar Management",
         "description": "Record bazar expenses, assign costs, and keep everything organized with clear expense history.",
-        "icon": "https://appiev.quomodosoft.com/static/media/counter-icon-1.e6228c7a.svg"
+        "icon": "images/bazar-management.png"
     },
     {
         "title": "Finance Automation",
         "description": "Automatically calculate meal rates, individual costs, and monthly balances with zero confusion.",
-        "icon": "https://appiev.quomodosoft.com/static/media/counter-icon-1.e6228c7a.svg"
+        "icon": "images/finance-automation.png"
     },
     {
         "title": "Smooth Onboarding",
         "description": "Get started quickly with a simple setup process designed for mess members of all ages.",
-        "icon": "https://appiev.quomodosoft.com/static/media/counter-icon-4.179fe5bc.svg"
+        "icon": "images/smooth-onboarding.png"
     }
 ]
     },
     "videoSection": {
         "title": "Watch the two-minute video to learn how",
         "subtitle": "The wireless cheesed on your bike mate zonked a load of old tosh hunky dory it's all gone to pot haggle william car boot pear shaped geeza.",
-        "videoUrl": "https://www.youtube.com/watch?v=6wQjuplvypI&pp=ugUEEgJlbg%3D%3D",
-        "videoThumbUrl": "http://localhost:8082/img/video-thumb-1.93e738d1.jpg",
-        "ctaButton": "Get Started",
-        "ctaButtonUrl": "/get-started",
+        "videoUrl": "https://www.youtube.com/watch?v=6wQjuplvypI",
+        "videoThumbUrl": "https://img.youtube.com/vi/6wQjuplvypI/maxresdefault.jpg",
+        "ctaButton": "Download App",
+        "ctaButtonUrl": "/download",
         "carouselImages": [
-            "http://localhost:8082/img/carousel-1.jpg",
-            "http://localhost:8082/img/carousel-2.jpg",
-            "http://localhost:8082/img/carousel-3.jpg"
+            "images/carousel-1.jpg",
+            "images/carousel-2.jpg",
+            "images/carousel-3.jpg"
         ]
     },
     "showCaseSection": {
         "title": "Creative app showcase",
         "subtitle": "The app provides design and digital marketing.",
         "carouselImages": [
-            "http://localhost:8082/img/carousel-1.jpg",
-            "http://localhost:8082/img/carousel-2.jpg",
-            "http://localhost:8082/img/carousel-3.jpg"
+            "images/screenshot-1.jpg",
+            "images/screenshot-2.jpg",
+            "images/screenshot-3.jpg",
+            "images/screenshot-4.jpg",
+            "images/screenshot-5.jpg",
+            "images/screenshot-6.jpg",
+            "images/screenshot-7.jpg",
+            "images/screenshot-8.jpg"
         ]
     },
     "testimonialSection": {
