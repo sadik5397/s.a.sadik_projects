@@ -114,88 +114,65 @@
         "subtitle": "Different layouts and styles for team sections.",
         "plans": [
             {
-                "name": "Fresh Monthly",
-                "price": "4",
+                "name": "Simple",
+                "price": "10",
                 "billingCycle": "per month",
                 "features": [
-                    "14 day free trial",
-                    "60-day chat history",
-                    "15 GB cloud storage"
+                    "First month free trial",
+                    "90 days history"
                 ],
-                "mostPopular": true
+                "mostPopular": false
             },
             {
-                "name": "Sweet Monthly",
-                "price": "16",
-                "billingCycle": "per month",
+                "name": "Better",
+                "price": "45",
+                "billingCycle": "per six months",
                 "features": [
-                    "60-day chat history",
-                    "50 GB cloud storage",
-                    "24/7 Support"
+                    "First month free trial",
+                    "180 days history"
                 ]
             },
             {
-                "name": "Juicy Monthly",
-                "price": "27",
-                "billingCycle": "per month",
+                "name": "Loyal",
+                "price": "60",
+                "billingCycle": "",
                 "features": [
-                    "60-day chat history",
-                    "Data security",
-                    "100 GB cloud storage"
+                     "First month free trial",
+                    "365 days history"
                 ]
             }
         ],
-        "yearly": [
-            {
-                "name": "Fresh Yearly",
-                "price": "32",
-                "billingCycle": "per year",
-                "features": [
-                    "14 day free trial",
-                    "60-day chat history",
-                    "15 GB cloud storage"
-                ]
-            },
-            {
-                "name": "Sweet Yearly",
-                "price": "116",
-                "billingCycle": "per year",
-                "features": [
-                    "60-day chat history",
-                    "50 GB cloud storage",
-                    "24/7 Support"
-                ],
-                "mostPopular": true
-            },
-            {
-                "name": "Juicy Yearly",
-                "price": "227",
-                "billingCycle": "per year",
-                "features": [
-                    "60-day chat history",
-                    "Data security",
-                    "100 GB cloud storage"
-                ]
-            }
-        ]
+        "yearly": []
     },
     "faqSection": {
         "title": "Frequently asked questions",
         "subtitle": "Different layouts and styles for team sections.",
         "qna": [
-            {
-                "ques": "Where do I usually find FAQs in a page?",
-                "ans": "Naff Oxford vagabond in my flat chinwag blatant grub tomfoolery that I bits and bobs up the duff cras boot bevvy no biggie."
-            },
-            {
-                "ques": "Where do I usually find FAQs in a page?",
-                "ans": "Naff Oxford vagabond in my flat chinwag blatant grub tomfoolery that I bits and bobs up the duff cras boot bevvy no biggie."
-            },
-            {
-                "ques": "Where do I usually find FAQs in a page?",
-                "ans": "Naff Oxford vagabond in my flat chinwag blatant grub tomfoolery that I bits and bobs up the duff cras boot bevvy no biggie."
-            }
-        ]
+  {
+    "ques": "What is EZ Bachelor and what is it used for?",
+    "ans": "EZ Bachelor is a digital mess and meal management platform that helps bachelors and shared living groups track meals, expenses, deposits, and monthly calculations easily in one place."
+  },
+  {
+    "ques": "Who can use EZ Bachelor?",
+    "ans": "EZ Bachelor is ideal for bachelor messes, hostels, shared flats, and anyone managing group meals and expenses with multiple members."
+  },
+  {
+    "ques": "How do I start using EZ Bachelor?",
+    "ans": "You can get started by creating an account, setting up your mess, and adding members. Once done, you can begin recording daily meals, costs, and deposits from the dashboard."
+  },
+  {
+    "ques": "Does EZ Bachelor calculate meal rates automatically?",
+    "ans": "Yes, EZ Bachelor automatically calculates meal rates, individual costs, and balances based on total expenses and meals consumed."
+  },
+  {
+    "ques": "Can I view previous month reports in EZ Bachelor?",
+    "ans": "Yes, EZ Bachelor keeps monthly records so you can review previous months’ meals, expenses, deposits, and summaries anytime."
+  },
+  {
+    "ques": "Is my data safe in EZ Bachelor?",
+    "ans": "Yes, EZ Bachelor stores data securely in the cloud, allowing you to access your mess information safely from any supported device."
+  }
+]
     },
     "blogSection": {
         "title": "Latest blog posts",
