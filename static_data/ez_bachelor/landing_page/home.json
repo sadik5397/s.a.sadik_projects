@@ -87,21 +87,21 @@
  "testimonialSection": {
     "testimonials": [
         {
-            "avatarUrl": "https://ezbachelor.app/assets/testimonials/user-1.jpg",
+            "avatarUrl": "https://avatar.iran.liara.run/public/boy?username=rahim",
             "author": "Rahim Uddin",
             "date": "Mess Member · Dhaka",
             "ratingStar": "5",
-            "comment": "EZ Bachelor made our mess life way easier. Meal counting, bazar tracking, and monthly calculation are now automatic. No more arguments at month end."
+            "comment": "EZ Bachelor made our house life way easier. Meal counting, bazar tracking, and monthly calculation are now automatic. No more arguments at month end."
         },
         {
-            "avatarUrl": "https://ezbachelor.app/assets/testimonials/user-2.jpg",
+"avatarUrl": "https://avatar.iran.liara.run/public/boy?username=sajid",
             "author": "Sajid Khan",
             "date": "Mess Manager",
             "ratingStar": "5",
             "comment": "As a mess manager, this app saved me hours every week. Everyone can see expenses clearly, so transparency problems are completely gone."
         },
         {
-            "avatarUrl": "https://ezbachelor.app/assets/testimonials/user-3.jpg",
+"avatarUrl": "https://avatar.iran.liara.run/public/boy?username=mahmud",
             "author": "Mahmud Hasan",
             "date": "Bachelor Resident",
             "ratingStar": "4",
@@ -181,22 +181,22 @@
             {
                 "title": "Introducing New Apps Design for our iOS App",
                 "category": "Saas & App",
-                "date": "March 10, 2022",
-                "thumbUrl": "http://localhost:8082/img/blog-thumb-1.8e1f3f6c.jpg",
+                "date": "March 10, 2026",
+                "thumbUrl": "images/blog-thumb-1.jpg",
                 "link": "#"
             },
             {
                 "title": "How to bring Dolce to your company",
                 "category": "Saas & App",
-                "thumbUrl": "images/blog-thumb-1.jpg",
-                "date": "March 10, 2022",
+                "thumbUrl": "images/blog-thumb-2.jpg",
+                "date": "March 10, 2025",
                 "link": "#"
             },
             {
                 "title": "Introducing New Apps Design for our iOS App",
                 "category": "Saas & App",
-                "date": "March 10, 2022",
-                "thumbUrl": "http://localhost:8082/img/blog-thumb-1.8e1f3f6c.jpg",
+                "date": "March 10, 2024",
+                "thumbUrl": "images/blog-thumb-3.jpg",
                 "link": "#"
             }
         ]
@@ -204,12 +204,12 @@
     "downloadSection": {
         "subtitle": "Download Our App",
         "title": "App is available\nfree on app store",
-        "description": "Jolly good quaint james bond victoria sponge happy days cras arse over blatant.",
+        "description": "Jolly good quaint James Bond Victoria sponge happy days cras arse over blatant.",
         "featureImage": "images/screenshot-collage.png",
         "downloadButtons": [
                  {
                 "label": "Download for Android",
-                "link": "https://play.google.com/store/apps/details?id=com.sadikwork.ezbachelor"
+                "link": "https://github.com/sadik5397/s.a.sadik_projects/raw/main/static_data/ez_bachelor/app.apk"
             },
             {
                 "label": "Download for iOS",
@@ -310,7 +310,7 @@
         "appDownload": [
             {
                 "platform": "Android",
-                "link": "https://play.google.com/store/apps/details?id=com.sadikwork.ezbachelor"
+                "link": "https://github.com/sadik5397/s.a.sadik_projects/raw/main/static_data/ez_bachelor/app.apk"
             },
             {
                 "platform": "iOS",
