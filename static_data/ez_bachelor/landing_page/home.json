@@ -251,12 +251,12 @@
     "footer": {
         "logo": "EZ Bachelor Logo",
         "logoUrl": "images/logo.png",
-        "description": "EZ Bachelor is a smart mess management app designed for bachelor life. Easily track meals, manage bazar costs, split expenses, and keep everything transparent in one simple place.",
+        "description": "EZ Bachelor is a smart mess management app for bachelor life. Track meals, manage bazar costs, and split expenses easily in one place.",
         "socialLinks": {
             "facebook": "https://www.facebook.com/ezbachelor",
             "linkedin": "https://www.linkedin.com/ln/ezbachelor",
             "youtube": "https://www.youtube.com/@ezbachelor",
-            "youtube": "https://www.instagram.com/@ezbachelor"
+            "instagram": "https://www.instagram.com/@ezbachelor"
         },
         "companyLinks": [
             {
