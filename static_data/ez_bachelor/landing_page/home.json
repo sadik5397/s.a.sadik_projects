@@ -1,6 +1,6 @@
 {
     "siteTitle": "EZ Bachelor",
-    "siteDescription": "Appie is a powerful app that can help you manage your tasks efficiently and effectively.",
+    "siteDescription": "EZ Bachelor is a smart mess management app designed for bachelor life. Easily track meals, manage bazar costs, split expenses, and keep everything transparent in one simple place.",
     "metaImage" : "images/meta.png",
     "header": {
         "logo": "EZ Bachelor Logo",
@@ -142,7 +142,7 @@
                     "365 days history"
                 ]
             }
-        ],
+        ]
     },
     "faqSection": {
         "title": "Frequently asked questions",
@@ -244,15 +244,14 @@
         ]
     },
     "footer": {
-        "logo": "AppieEZ Bachelor Logo",
-        "logoUrl": "https://ibblportal.islamibankbd.com/images/logonewblack.png",
-        "description": "Appie is a powerful app that can help you manage your tasks efficiently and effectively.",
-        "readMoreLink": "#",
+        "logo": "EZ Bachelor Logo",
+        "logoUrl": "images/logo.png",
+        "description": "EZ Bachelor is a smart mess management app designed for bachelor life. Easily track meals, manage bazar costs, split expenses, and keep everything transparent in one simple place.",
         "socialLinks": {
-            "facebook": "https://www.facebook.com/",
-            "twitter": "https://twitter.com/",
-            "linkedin": "https://www.linkedin.com/",
-            "instagram": "https://www.instagram.com/"
+            "facebook": "https://www.facebook.com/ezbachelor",
+            "linkedin": "https://www.linkedin.com/ln/ezbachelor",
+            "youtube": "https://www.youtube.com/@ezbachelor",
+            "youtube": "https://www.instagram.com/@ezbachelor"
         },
         "companyLinks": [
             {
@@ -260,19 +259,19 @@
                 "link": "#"
             },
             {
-                "title": "Blog",
+                "title": "Services",
                 "link": "#"
             },
             {
-                "title": "Contact",
+                "title": "News & Blogs",
+                "link": "/blogs"
+            },
+            {
+                "title": "Community",
                 "link": "#"
             },
             {
-                "title": "Pricing",
-                "link": "#"
-            },
-            {
-                "title": "Testimonials",
+                "title": "Contacts",
                 "link": "#"
             }
         ],
@@ -286,21 +285,21 @@
                 "link": "#"
             },
             {
-                "title": "Legal",
-                "link": "#"
-            },
-            {
                 "title": "Privacy Policy",
                 "link": "#"
             },
             {
-                "title": "Status",
+                "title": "Reset Password",
+                "link": "#"
+            },
+            {
+                "title": "Server Status",
                 "link": "#"
             }
         ],
         "contact": {
-            "email": "support@appie.com",
-            "phone": "+(642) 342 762 44",
+            "email": "mail@ezbachelor.com",
+            "phone": "+880 123 456 7890",
             "address": "442 Belle Terre St Floor 7, San Francisco, AV 4206"
         },
         "appDownload": [
