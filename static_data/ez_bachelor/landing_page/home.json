@@ -207,13 +207,17 @@
         "description": "Jolly good quaint james bond victoria sponge happy days cras arse over blatant.",
         "featureImage": "https://appiev.quomodosoft.com/static/media/download-thumb.5f3f3f1d.png",
         "downloadButtons": [
-            {
-                "label": "Download for iOS",
-                "link": "#"
+                 {
+                "label": "Download for Android",
+                "link": "https://play.google.com/store/apps/details?id=com.sadikwork.ezbachelor"
             },
             {
-                "label": "Download for Android",
-                "link": "#"
+                "label": "Download for iOS",
+                "link": "https://apps.apple.com/us/app/ez-bachelor/idxxxxxxxxxxx"
+            },
+           {
+                "label": "Use Web App",
+                "link": "https://app.ezbachelor.com"
             }
         ]
     },
