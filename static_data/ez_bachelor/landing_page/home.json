@@ -84,31 +84,32 @@
             "images/screenshot-8.jpg"
         ]
     },
-    "testimonialSection": {
-        "testimonials": [
-            {
-                "avatarUrl": "http://localhost:8082/img/carousel-3.jpg",
-                "author": "Hanson Deck",
-                "date": "Hanson Deck",
-                "ratingStar": "5",
-                "comment": "Why I say old chap that is spiffing lurgy Oxford cracking goal bleeder, bog-standard Harry brilliant mush a blinding shot starkers."
-            },
-            {
-                "avatarUrl": "http://localhost:8082/img/carousel-3.jpg",
-                "author": "Hanson Deck",
-                "date": "Hanson Deck",
-                "ratingStar": "5",
-                "comment": "Why I say old chap that is spiffing lurgy Oxford cracking goal bleeder, bog-standard Harry brilliant mush a blinding shot starkers."
-            },
-            {
-                "avatarUrl": "http://localhost:8082/img/carousel-3.jpg",
-                "author": "Hanson Deck",
-                "date": "Hanson Deck",
-                "ratingStar": "5",
-                "comment": "Why I say old chap that is spiffing lurgy Oxford cracking goal bleeder, bog-standard Harry brilliant mush a blinding shot starkers."
-            }
-        ]
-    },
+ "testimonialSection": {
+    "testimonials": [
+        {
+            "avatarUrl": "https://ezbachelor.app/assets/testimonials/user-1.jpg",
+            "author": "Rahim Uddin",
+            "date": "Mess Member · Dhaka",
+            "ratingStar": "5",
+            "comment": "EZ Bachelor made our mess life way easier. Meal counting, bazar tracking, and monthly calculation are now automatic. No more arguments at month end."
+        },
+        {
+            "avatarUrl": "https://ezbachelor.app/assets/testimonials/user-2.jpg",
+            "author": "Sajid Khan",
+            "date": "Mess Manager",
+            "ratingStar": "5",
+            "comment": "As a mess manager, this app saved me hours every week. Everyone can see expenses clearly, so transparency problems are completely gone."
+        },
+        {
+            "avatarUrl": "https://ezbachelor.app/assets/testimonials/user-3.jpg",
+            "author": "Mahmud Hasan",
+            "date": "Bachelor Resident",
+            "ratingStar": "4",
+            "comment": "Before EZ Bachelor, tracking meals was a headache. Now everything is organized in one place. Simple UI and very practical for daily use."
+        }
+    ]
+},
+
     "pricingSection": {
         "title": "Choose your plan",
         "subtitle": "Different layouts and styles for team sections.",
@@ -142,7 +143,6 @@
                 ]
             }
         ],
-        "yearly": []
     },
     "faqSection": {
         "title": "Frequently asked questions",
