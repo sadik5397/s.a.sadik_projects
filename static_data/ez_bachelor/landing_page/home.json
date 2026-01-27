@@ -220,28 +220,29 @@
     "statisticSection": {
         "title": "How does it work",
         "subtitle": "The full monty spiffing good time no biggie cack grub fantastic.",
-        "statistics": [
-            {
-                "icon": "https://appiev.quomodosoft.com/static/media/counter-icon-1.e6228c7a.svg",
-                "label": "Active Installation",
-                "value": "45k+"
-            },
-            {
-                "icon": "https://appiev.quomodosoft.com/static/media/counter-icon-1.e6228c7a.svg",
-                "label": "Active Users",
-                "value": "108+"
-            },
-            {
-                "icon": "https://appiev.quomodosoft.com/static/media/counter-icon-1.e6228c7a.svg",
-                "label": "Feedback",
-                "value": "30k+"
-            },
-            {
-                "icon": "https://appiev.quomodosoft.com/static/media/counter-icon-1.e6228c7a.svg",
-                "label": "Other Metric",
-                "value": "725k+"
-            }
-        ]
+       "statistics": [
+    {
+        "icon": "images/active-installations.png",
+        "label": "Active Installations",
+        "value": "52k+"
+    },
+    {
+        "icon": "images/monthly-active-users.png",
+        "label": "Monthly Active Users",
+        "value": "38k+"
+    },
+    {
+        "icon": "images/meals-tracked.png",
+        "label": "Meals Tracked",
+        "value": "1.2M+"
+    },
+    {
+        "icon": "images/house-onboarded.png",
+        "label": "House Obboarded",
+        "value": "9.5k+"
+    }
+]
+
     },
     "footer": {
         "logo": "EZ Bachelor Logo",
@@ -300,20 +301,20 @@
         "contact": {
             "email": "mail@ezbachelor.com",
             "phone": "+880 123 456 7890",
-            "address": "442 Belle Terre St Floor 7, San Francisco, AV 4206"
+            "address": "Block A, RUAP, Avenue 3, Uttara, Dhaka"
         },
         "appDownload": [
             {
                 "platform": "Android",
-                "link": "#"
+                "link": "https://play.google.com/store/apps/details?id=com.sadikwork.ezbachelor"
             },
             {
                 "platform": "iOS",
-                "link": "#"
+                "link": "https://apps.apple.com/us/app/ez-bachelor/idxxxxxxxxxxx"
             },
             {
                 "platform": "Web",
-                "link": "#"
+                "link": "https://app.ezbachelor.com"
             }
         ],
         "copyright": "© 2026 EZ Bachelor. All rights reserved | Developed by S.a. Sadik"
