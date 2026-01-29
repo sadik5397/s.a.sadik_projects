@@ -1,179 +1,145 @@
 {
     "siteTitle": "EZ Bachelor",
-    "siteDescription": "Appie is a powerful app that can help you manage your tasks efficiently and effectively.",
-    "metaImage" : "https://appiev.quomodosoft.com/static/media/preview.5f4d2f7e.png",
+    "siteDescription": "EZ Bachelor is a smart mess management app designed for bachelor life. Easily track meals, manage bazar costs, split expenses, and keep everything transparent in one simple place.",
+    "metaImage" : "images/meta.png",
     "header": {
-        "logo": "AppieEZ Bachelor Logo",
-        "logoUrl": "https://ibblportal.islamibankbd.com/images/logonewblack.png",
-        "ctaButtons": [
-            {
-                "label": "Call Us",
-                "link": "/call"
-            },
+        "logo": "EZ Bachelor Logo",
+        "logoUrl": "images/logo.png",
+        "ctaButtons": 
             {
                 "label": "Download App",
                 "link": "/download"
             }
-        ]
+        
     },
     "heroSection": {
-        "title": "Welcome To Appie",
-        "subtitle": "Manage it all in this all-new system",
-        "description": "Short marketing blurb about the product.",
+        "title": "Welcome To EZ Bachelor",
+        "subtitle": "Automatically manage your meals & expenses",
+        "description": "Stop fighting over who ate the extra egg and let the app handle it.",
         "downloadButtons": [
             {
-                "label": "Download for Android",
-                "link": "#"
+                "label": "Download Android",
+                "link": "https://github.com/sadik5397/s.a.sadik_projects/raw/main/static_data/ez_bachelor/app.apk"
             },
             {
                 "label": "Use Web App",
-                "link": "#"
+                "link": "https://app.ezbachelor.com"
             }
         ],
         "heroImages": [
-            "https://appiev.quomodosoft.com/static/media/hero-thumb-1.06b8d151.png",
-            "https://appiev.quomodosoft.com/static/media/features-thumb-1.1f747549.png"
+            "images/home-hero-screenshot.png",
+            "images/home-hero-widget.png"
         ]
     },
     "featureSection": {
         "title": "Designed with\nThe applicant in mind.",
-        "subtitle": "The full monty spiffing good time no biggie cack grub fantastic.",
+        "subtitle": "Powerful features built for easy expense tracking",
         "features": [
-            {
-                "title": "Searching",
-                "description": "Mucker plastered bugger all mate morish are.",
-                "icon": "https://appiev.quomodosoft.com/static/media/counter-icon-1.e6228c7a.svg"
-            },
-            {
-                "title": "Designing",
-                "description": "Mucker plastered bugger all mate morish are.",
-                "icon": "https://appiev.quomodosoft.com/static/media/counter-icon-1.e6228c7a.svg"
-            },
-            {
-                "title": "Building",
-                "description": "Mucker plastered bugger all mate morish are.",
-                "icon": "https://appiev.quomodosoft.com/static/media/counter-icon-1.e6228c7a.svg"
-            },
-            {
-                "title": "Suporting",
-                "description": "Mucker plastered bugger all mate morish are.",
-                "icon": "https://appiev.quomodosoft.com/static/media/counter-icon-4.179fe5bc.svg"
-            }
-        ]
+    {
+        "title": "Meal Tracking",
+        "description": "Easily track daily meals for each member and calculate totals automatically without manual counting.",
+        "icon": "images/meal_tracking.png"
+    },
+    {
+        "title": "Bazar Management",
+        "description": "Record bazar expenses, assign costs, and keep everything organized with clear expense history.",
+        "icon": "images/bazar-management.png"
+    },
+    {
+        "title": "Finance Automation",
+        "description": "Automatically calculate meal rates, individual costs, and monthly balances with zero confusion.",
+        "icon": "images/finance-automation.png"
+    },
+    {
+        "title": "Smooth Onboarding",
+        "description": "Get started quickly with a simple setup process designed for mess members of all ages.",
+        "icon": "images/smooth-onboarding.png"
+    }
+]
     },
     "videoSection": {
         "title": "Watch the two-minute video to learn how",
         "subtitle": "The wireless cheesed on your bike mate zonked a load of old tosh hunky dory it's all gone to pot haggle william car boot pear shaped geeza.",
-        "videoUrl": "https://www.youtube.com/watch?v=6wQjuplvypI&pp=ugUEEgJlbg%3D%3D",
-        "videoThumbUrl": "http://localhost:8082/img/video-thumb-1.93e738d1.jpg",
-        "ctaButton": "Get Started",
-        "ctaButtonUrl": "/get-started",
+        "videoUrl": "https://www.youtube.com/watch?v=6wQjuplvypI",
+        "videoThumbUrl": "https://img.youtube.com/vi/6wQjuplvypI/maxresdefault.jpg",
+        "ctaButton": "Download App",
+        "ctaButtonUrl": "/download",
         "carouselImages": [
-            "http://localhost:8082/img/carousel-1.jpg",
-            "http://localhost:8082/img/carousel-2.jpg",
-            "http://localhost:8082/img/carousel-3.jpg"
+            "images/carousel-1.jpg",
+            "images/carousel-2.jpg",
+            "images/carousel-3.jpg"
         ]
     },
     "showCaseSection": {
         "title": "Creative app showcase",
         "subtitle": "The app provides design and digital marketing.",
         "carouselImages": [
-            "http://localhost:8082/img/carousel-1.jpg",
-            "http://localhost:8082/img/carousel-2.jpg",
-            "http://localhost:8082/img/carousel-3.jpg"
+            "images/screenshot-1.jpg",
+            "images/screenshot-2.jpg",
+            "images/screenshot-3.jpg",
+            "images/screenshot-4.jpg",
+            "images/screenshot-5.jpg",
+            "images/screenshot-6.jpg",
+            "images/screenshot-7.jpg",
+            "images/screenshot-8.jpg"
         ]
     },
-    "testimonialSection": {
-        "testimonials": [
-            {
-                "avatarUrl": "http://localhost:8082/img/carousel-3.jpg",
-                "author": "Hanson Deck",
-                "date": "Hanson Deck",
-                "ratingStar": "5",
-                "comment": "Why I say old chap that is spiffing lurgy Oxford cracking goal bleeder, bog-standard Harry brilliant mush a blinding shot starkers."
-            },
-            {
-                "avatarUrl": "http://localhost:8082/img/carousel-3.jpg",
-                "author": "Hanson Deck",
-                "date": "Hanson Deck",
-                "ratingStar": "5",
-                "comment": "Why I say old chap that is spiffing lurgy Oxford cracking goal bleeder, bog-standard Harry brilliant mush a blinding shot starkers."
-            },
-            {
-                "avatarUrl": "http://localhost:8082/img/carousel-3.jpg",
-                "author": "Hanson Deck",
-                "date": "Hanson Deck",
-                "ratingStar": "5",
-                "comment": "Why I say old chap that is spiffing lurgy Oxford cracking goal bleeder, bog-standard Harry brilliant mush a blinding shot starkers."
-            }
-        ]
-    },
+ "testimonialSection": {
+    "testimonials": [
+        {
+            "avatarUrl": "https://avatar.iran.liara.run/public/boy?username=rahim",
+            "author": "Rahim Uddin",
+            "date": "Mess Member · Dhaka",
+            "ratingStar": "5",
+            "comment": "EZ Bachelor made our house life way easier. Meal counting, bazar tracking, and monthly calculation are now automatic. No more arguments at month end."
+        },
+        {
+"avatarUrl": "https://avatar.iran.liara.run/public/boy?username=sajid",
+            "author": "Sajid Khan",
+            "date": "Mess Manager",
+            "ratingStar": "5",
+            "comment": "As a mess manager, this app saved me hours every week. Everyone can see expenses clearly, so transparency problems are completely gone."
+        },
+        {
+"avatarUrl": "https://avatar.iran.liara.run/public/boy?username=mahmud",
+            "author": "Mahmud Hasan",
+            "date": "Bachelor Resident",
+            "ratingStar": "4",
+            "comment": "Before EZ Bachelor, tracking meals was a headache. Now everything is organized in one place. Simple UI and very practical for daily use."
+        }
+    ]
+},
+
     "pricingSection": {
         "title": "Choose your plan",
         "subtitle": "Different layouts and styles for team sections.",
         "plans": [
             {
-                "name": "Fresh Monthly",
-                "price": "4",
+                "name": "Simple",
+                "price": "10",
                 "billingCycle": "per month",
                 "features": [
-                    "14 day free trial",
-                    "60-day chat history",
-                    "15 GB cloud storage"
+                    "First month free trial",
+                    "90 days history"
                 ],
-                "mostPopular": true
+                "mostPopular": false
             },
             {
-                "name": "Sweet Monthly",
-                "price": "16",
-                "billingCycle": "per month",
+                "name": "Better",
+                "price": "45",
+                "billingCycle": "per six months",
                 "features": [
-                    "60-day chat history",
-                    "50 GB cloud storage",
-                    "24/7 Support"
+                    "First month free trial",
+                    "180 days history"
                 ]
             },
             {
-                "name": "Juicy Monthly",
-                "price": "27",
-                "billingCycle": "per month",
+                "name": "Loyal",
+                "price": "60",
+                "billingCycle": "",
                 "features": [
-                    "60-day chat history",
-                    "Data security",
-                    "100 GB cloud storage"
-                ]
-            }
-        ],
-        "yearly": [
-            {
-                "name": "Fresh Yearly",
-                "price": "32",
-                "billingCycle": "per year",
-                "features": [
-                    "14 day free trial",
-                    "60-day chat history",
-                    "15 GB cloud storage"
-                ]
-            },
-            {
-                "name": "Sweet Yearly",
-                "price": "116",
-                "billingCycle": "per year",
-                "features": [
-                    "60-day chat history",
-                    "50 GB cloud storage",
-                    "24/7 Support"
-                ],
-                "mostPopular": true
-            },
-            {
-                "name": "Juicy Yearly",
-                "price": "227",
-                "billingCycle": "per year",
-                "features": [
-                    "60-day chat history",
-                    "Data security",
-                    "100 GB cloud storage"
+                     "First month free trial",
+                    "365 days history"
                 ]
             }
         ]
@@ -182,19 +148,31 @@
         "title": "Frequently asked questions",
         "subtitle": "Different layouts and styles for team sections.",
         "qna": [
-            {
-                "ques": "Where do I usually find FAQs in a page?",
-                "ans": "Naff Oxford vagabond in my flat chinwag blatant grub tomfoolery that I bits and bobs up the duff cras boot bevvy no biggie.",
-            },
-            {
-                "ques": "Where do I usually find FAQs in a page?",
-                "ans": "Naff Oxford vagabond in my flat chinwag blatant grub tomfoolery that I bits and bobs up the duff cras boot bevvy no biggie.",
-            },
-            {
-                "ques": "Where do I usually find FAQs in a page?",
-                "ans": "Naff Oxford vagabond in my flat chinwag blatant grub tomfoolery that I bits and bobs up the duff cras boot bevvy no biggie.",
-            }
-        ]
+  {
+    "ques": "What is EZ Bachelor and what is it used for?",
+    "ans": "EZ Bachelor is a digital mess and meal management platform that helps bachelors and shared living groups track meals, expenses, deposits, and monthly calculations easily in one place."
+  },
+  {
+    "ques": "Who can use EZ Bachelor?",
+    "ans": "EZ Bachelor is ideal for bachelor messes, hostels, shared flats, and anyone managing group meals and expenses with multiple members."
+  },
+  {
+    "ques": "How do I start using EZ Bachelor?",
+    "ans": "You can get started by creating an account, setting up your mess, and adding members. Once done, you can begin recording daily meals, costs, and deposits from the dashboard."
+  },
+  {
+    "ques": "Does EZ Bachelor calculate meal rates automatically?",
+    "ans": "Yes, EZ Bachelor automatically calculates meal rates, individual costs, and balances based on total expenses and meals consumed."
+  },
+  {
+    "ques": "Can I view previous month reports in EZ Bachelor?",
+    "ans": "Yes, EZ Bachelor keeps monthly records so you can review previous months’ meals, expenses, deposits, and summaries anytime."
+  },
+  {
+    "ques": "Is my data safe in EZ Bachelor?",
+    "ans": "Yes, EZ Bachelor stores data securely in the cloud, allowing you to access your mess information safely from any supported device."
+  }
+]
     },
     "blogSection": {
         "title": "Latest blog posts",
@@ -203,22 +181,22 @@
             {
                 "title": "Introducing New Apps Design for our iOS App",
                 "category": "Saas & App",
-                "date": "March 10, 2022",
-                "thumbUrl": "http://localhost:8082/img/blog-thumb-1.8e1f3f6c.jpg",
+                "date": "March 10, 2026",
+                "thumbUrl": "images/blog-thumb-1.jpg",
                 "link": "#"
             },
             {
                 "title": "How to bring Dolce to your company",
                 "category": "Saas & App",
-                "thumbUrl": "http://localhost:8082/img/blog-thumb-1.8e1f3f6c.jpg",
-                "date": "March 10, 2022",
+                "thumbUrl": "images/blog-thumb-2.jpg",
+                "date": "March 10, 2025",
                 "link": "#"
             },
             {
                 "title": "Introducing New Apps Design for our iOS App",
                 "category": "Saas & App",
-                "date": "March 10, 2022",
-                "thumbUrl": "http://localhost:8082/img/blog-thumb-1.8e1f3f6c.jpg",
+                "date": "March 10, 2024",
+                "thumbUrl": "images/blog-thumb-3.jpg",
                 "link": "#"
             }
         ]
@@ -226,55 +204,59 @@
     "downloadSection": {
         "subtitle": "Download Our App",
         "title": "App is available\nfree on app store",
-        "description": "Jolly good quaint james bond victoria sponge happy days cras arse over blatant.",
-        "featureImage": "https://appiev.quomodosoft.com/static/media/download-thumb.5f3f3f1d.png",
+        "description": "Jolly good quaint James Bond Victoria sponge happy days cras arse over blatant.",
+        "featureImage": "images/screenshot-collage.png",
         "downloadButtons": [
-            {
-                "label": "Download for iOS",
-                "link": "#"
+                 {
+                "label": "Download for Android",
+                "link": "https://github.com/sadik5397/s.a.sadik_projects/raw/main/static_data/ez_bachelor/app.apk"
             },
             {
-                "label": "Download for Android",
-                "link": "#"
+                "label": "Download for iOS",
+                "link": "https://apps.apple.com/us/app/ez-bachelor/idxxxxxxxxxxx"
+            },
+           {
+                "label": "Use Web App",
+                "link": "https://app.ezbachelor.com"
             }
         ]
     },
     "statisticSection": {
         "title": "How does it work",
         "subtitle": "The full monty spiffing good time no biggie cack grub fantastic.",
-        "statistics": [
-            {
-                "icon": "https://appiev.quomodosoft.com/static/media/counter-icon-1.e6228c7a.svg",
-                "label": "Active Installation",
-                "value": "45k+"
-            },
-            {
-                "icon": "https://appiev.quomodosoft.com/static/media/counter-icon-1.e6228c7a.svg",
-                "label": "Active Users",
-                "value": "108+"
-            },
-            {
-                "icon": "https://appiev.quomodosoft.com/static/media/counter-icon-1.e6228c7a.svg",
-                "label": "Feedback",
-                "value": "30k+"
-            },
-            {
-                "icon": "https://appiev.quomodosoft.com/static/media/counter-icon-1.e6228c7a.svg",
-                "label": "Other Metric",
-                "value": "725k+"
-            }
-        ]
+       "statistics": [
+    {
+        "icon": "images/active-installations.png",
+        "label": "Active Installations",
+        "value": "52k+"
+    },
+    {
+        "icon": "images/monthly-active-users.png",
+        "label": "Monthly Active Users",
+        "value": "38k+"
+    },
+    {
+        "icon": "images/meals-tracked.png",
+        "label": "Meals Tracked",
+        "value": "1.2M+"
+    },
+    {
+        "icon": "images/house-onboarded.png",
+        "label": "House Obboarded",
+        "value": "9.5k+"
+    }
+]
+
     },
     "footer": {
-        "logo": "AppieEZ Bachelor Logo",
-        "logoUrl": "https://ibblportal.islamibankbd.com/images/logonewblack.png",
-        "description": "Appie is a powerful app that can help you manage your tasks efficiently and effectively.",
-        "readMoreLink": "#",
+        "logo": "EZ Bachelor Logo",
+        "logoUrl": "images/logo.png",
+        "description": "EZ Bachelor is a smart mess management app for bachelor life. Track meals, manage bazar costs, and split expenses easily in one place.",
         "socialLinks": {
-            "facebook": "https://www.facebook.com/",
-            "twitter": "https://twitter.com/",
-            "linkedin": "https://www.linkedin.com/",
-            "instagram": "https://www.instagram.com/"
+            "facebook": "https://www.facebook.com/ezbachelor",
+            "linkedin": "https://www.linkedin.com/ln/ezbachelor",
+            "youtube": "https://www.youtube.com/@ezbachelor",
+            "instagram": "https://www.instagram.com/@ezbachelor"
         },
         "companyLinks": [
             {
@@ -282,19 +264,19 @@
                 "link": "#"
             },
             {
-                "title": "Blog",
+                "title": "Services",
                 "link": "#"
             },
             {
-                "title": "Contact",
+                "title": "News & Blogs",
+                "link": "/blogs"
+            },
+            {
+                "title": "Community",
                 "link": "#"
             },
             {
-                "title": "Pricing",
-                "link": "#"
-            },
-            {
-                "title": "Testimonials",
+                "title": "Contacts",
                 "link": "#"
             }
         ],
@@ -308,35 +290,35 @@
                 "link": "#"
             },
             {
-                "title": "Legal",
-                "link": "#"
-            },
-            {
                 "title": "Privacy Policy",
                 "link": "#"
             },
             {
-                "title": "Status",
+                "title": "Reset Password",
+                "link": "#"
+            },
+            {
+                "title": "Server Status",
                 "link": "#"
             }
         ],
         "contact": {
-            "email": "support@appie.com",
-            "phone": "+(642) 342 762 44",
-            "address": "442 Belle Terre St Floor 7, San Francisco, AV 4206"
+            "email": "mail@ezbachelor.com",
+            "phone": "+880 123 456 7890",
+            "address": "Block A, RUAP, Avenue 3, Uttara, Dhaka"
         },
         "appDownload": [
             {
                 "platform": "Android",
-                "link": "#"
+                "link": "https://github.com/sadik5397/s.a.sadik_projects/raw/main/static_data/ez_bachelor/app.apk"
             },
             {
                 "platform": "iOS",
-                "link": "#"
+                "link": "https://apps.apple.com/us/app/ez-bachelor/idxxxxxxxxxxx"
             },
             {
                 "platform": "Web",
-                "link": "#"
+                "link": "https://app.ezbachelor.com"
             }
         ],
         "copyright": "© 2026 EZ Bachelor. All rights reserved | Developed by S.a. Sadik"
