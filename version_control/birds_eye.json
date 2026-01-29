@@ -1,6 +1,6 @@
 {
   "statusCode": 200,
-  "latestAppVersion": "1.0.26",
+  "latestAppVersion": "1.0.29",
   "forceUpdate" : false,
   "showElectionResult" : true,
   "showOverviewMap" : true,
