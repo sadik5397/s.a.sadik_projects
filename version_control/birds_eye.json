@@ -2,7 +2,7 @@
   "statusCode": 200,
   "latestAppVersion": "1.0.31",
   "forceUpdate" : false,
-  "showElectionResult" : true,
+  "showElectionResult" : false,
   "showOverviewMap" : true,
   "updateNotice": "New Update Available: Please update to the latest version",
   "bannerImg": "https://app.bdbirdseye.org/meta.png",
