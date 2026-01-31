@@ -1,6 +1,6 @@
 {
   "statusCode": 200,
-  "latestAppVersion": "1.0.8",
+  "latestAppVersion": "1.0.10",
   "forceUpdate": true,
   "updateNotice": "New Update Available: Please update to the latest version",
   "bannerImg": "https://www.ezbachelor.com/images/meta.png",
