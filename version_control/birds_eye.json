@@ -4,6 +4,7 @@
   "forceUpdate" : true,
   "showElectionResult" : true,
   "showOverviewMap" : true,
+  "allowVoterListPublic" : true, 
   "updateNotice": "New Update Available: Please update to the latest version",
   "bannerImg": "https://app.bdbirdseye.org/meta.png",
   "whatsNew": [
