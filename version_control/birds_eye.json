@@ -1,9 +1,9 @@
 {
   "statusCode": 200,
-  "latestAppVersion": "1.0.34",
+  "latestAppVersion": "1.0.50",
   "forceUpdate": true,
   "showElectionResult": true,
-  "showOverviewMap": true,
+  "showOverviewMap": false,
   "allowVoterListPublic": true,
   "updateNotice": "New Update Available: Please update to the latest version",
   "bannerImg": "https://app.bdbirdseye.org/meta.png",
@@ -15,7 +15,7 @@
     "Get all areas of a contributor",
     "More optimized and memory efficient"
   ],
-  "submit_latestAppVersion": "1.0.42",
+  "submit_latestAppVersion": "1.0.50",
   "submit_forceUpdate": true,
   "submit_updateNotice": "New Update Available: Please update to the latest version",
   "submit_whatsNew": [
