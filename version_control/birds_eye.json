@@ -1,6 +1,6 @@
 {
   "statusCode": 200,
-  "latestAppVersion": "1.0.50",
+  "latestAppVersion": "1.0.51",
   "forceUpdate": true,
   "showElectionResult": false,
   "showOverviewMap": false,
@@ -8,12 +8,7 @@
   "updateNotice": "New Update Available: Please update to the latest version",
   "bannerImg": "https://app.bdbirdseye.org/meta.png",
   "whatsNew": [
-    "Polling agent enroll/view",
-    "View list of all candidates",
-    "Offline first application",
-    "Constituency wise overview map",
-    "Get all areas of a contributor",
-    "More optimized and memory efficient"
+      "All Candidates Image Updated"
   ],
   "submit_latestAppVersion": "1.0.50",
   "submit_forceUpdate": true,
