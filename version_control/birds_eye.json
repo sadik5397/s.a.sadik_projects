@@ -2,7 +2,7 @@
   "statusCode": 200,
   "latestAppVersion": "1.0.51",
   "forceUpdate": true,
-  "showElectionResult": false,
+  "showElectionResult": true,
   "showOverviewMap": false,
   "allowVoterListPublic": true,
   "updateNotice": "New Update Available: Please update to the latest version",
