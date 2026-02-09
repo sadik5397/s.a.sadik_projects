@@ -1,6 +1,6 @@
 {
   "statusCode": 200,
-  "latestAppVersion": "1.0.55",
+  "latestAppVersion": "1.0.57",
   "forceUpdate": true,
   "showElectionResult": true,
   "showOverviewMap": false,
@@ -8,12 +8,12 @@
   "updateNotice": "New Update Available: Please update to the latest version",
   "bannerImg": "https://app.bdbirdseye.org/meta.png",
   "whatsNew": [
-      "All Candidates Image Updated"
+      "All Candidates' Image Updated"
   ],
-  "submit_latestAppVersion": "1.0.57",
+  "submit_latestAppVersion": "1.0.58",
   "submit_forceUpdate": true,
   "submit_updateNotice": "New Update Available: Please update to the latest version",
   "submit_whatsNew": [
-    "More optimized and memory efficient"
+    "More optimized and memory efficient."
   ]
 }
