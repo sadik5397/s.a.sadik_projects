@@ -1,9 +1,10 @@
 {
   "statusCode": 200,
-  "latestAppVersion": "1.0.57",
+  "latestAppVersion": "1.0.59",
   "forceUpdate": true,
   "showElectionResult": false,
   "showOverviewMap": false,
+  "showElectionService": false,
   "allowVoterListPublic": true,
   "updateNotice": "New Update Available: Please update to the latest version",
   "bannerImg": "https://app.bdbirdseye.org/meta.png",
