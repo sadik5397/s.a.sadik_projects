@@ -1,6 +1,6 @@
 {
   "statusCode": 200,
-  "latestAppVersion": "1.0.63",
+  "latestAppVersion": "1.0.66",
   "forceUpdate": true,
   "showElectionResult": false,
   "showOverviewMap": true,
@@ -9,6 +9,7 @@
   "updateNotice": "New Update Available: Please update to the latest version",
   "bannerImg": "https://app.bdbirdseye.org/meta.png",
   "whatsNew": [
+    "🗒️ GPS Based Election Results",
     "🗒️ Election Realitime Results is Now LIVE",
     "🚀 50% faster (reduced API calls)",
     "🎯 100% accurate data display",
