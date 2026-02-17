@@ -1,6 +1,6 @@
 {
     "code" : 200,
-	"app-version" : "1.0.11",
+	"app-version" : "1.26.2",
 	"update-notice" : "New Update Available: automatic screen lock disabled on the big clock",
 	"announcement" : ""
 }
