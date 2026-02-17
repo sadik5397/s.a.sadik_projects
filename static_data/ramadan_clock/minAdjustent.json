@@ -1,0 +1,322 @@
+[
+  {
+    "en": "Bagerhat",
+    "bn": "বাগেরহাট",
+    "adjustment": 2
+  },
+  {
+    "en": "Bandarban",
+    "bn": "বান্দরবান",
+    "adjustment": -7
+  },
+  {
+    "en": "Barguna",
+    "bn": "বরগুনা",
+    "adjustment": 1
+  },
+  {
+    "en": "Barisal",
+    "bn": "বরিশাল",
+    "adjustment": 1
+  },
+  {
+    "en": "Bhola",
+    "bn": "ভোলা",
+    "adjustment": -2
+  },
+  {
+    "en": "Bogra",
+    "bn": "বগুড়া",
+    "adjustment": 7
+  },
+  {
+    "en": "Brahmanbaria",
+    "bn": "ব্রাহ্মণবাড়ীয়া",
+    "adjustment": -3
+  },
+  {
+    "en": "Chandpur",
+    "bn": "চাঁদপুর",
+    "adjustment": -1
+  },
+  {
+    "en": "Chittagong",
+    "bn": "চট্টগ্রাম",
+    "adjustment": -5
+  },
+  {
+    "en": "Chuadanga",
+    "bn": "চুয়াডাঙ্গা",
+    "adjustment": 6
+  },
+  {
+    "en": "Comilla",
+    "bn": "কুমিল্লা",
+    "adjustment": -3
+  },
+  {
+    "en": "Cox's Bazar",
+    "bn": "কক্সবাজার",
+    "adjustment": -6
+  },
+  {
+    "en": "Dhaka",
+    "bn": "ঢাকা",
+    "adjustment": 0
+  },
+  {
+    "en": "Dinajpur",
+    "bn": "দিনাজপুর",
+    "adjustment": 9
+  },
+  {
+    "en": "Faridpur",
+    "bn": "ফরিদপুর",
+    "adjustment": 3
+  },
+  {
+    "en": "Feni",
+    "bn": "ফেনী",
+    "adjustment": -4
+  },
+  {
+    "en": "Gaibandha",
+    "bn": "গাইবান্ধা",
+    "adjustment": 6
+  },
+  {
+    "en": "Gazipur",
+    "bn": "গাজীপুর",
+    "adjustment": 1
+  },
+  {
+    "en": "Gopalganj",
+    "bn": "গোপালগঞ্জ",
+    "adjustment": 3
+  },
+  {
+    "en": "Habiganj",
+    "bn": "হবিগঞ্জ",
+    "adjustment": -4
+  },
+  {
+    "en": "Jamalpur",
+    "bn": "জামালপুর",
+    "adjustment": 2
+  },
+  {
+    "en": "Jessore",
+    "bn": "যশোর",
+    "adjustment": 5
+  },
+  {
+    "en": "Jhalokati",
+    "bn": "ঝালকাঠি",
+    "adjustment": 1
+  },
+  {
+    "en": "Jhenaidah",
+    "bn": "ঝিনাইদহ",
+    "adjustment": 5
+  },
+  {
+    "en": "Joypurhat",
+    "bn": "জয়পুরহাট",
+    "adjustment": 0
+  },
+  {
+    "en": "Khagrachhari",
+    "bn": "খাগড়াছড়ি",
+    "adjustment": -7
+  },
+  {
+    "en": "Khulna",
+    "bn": "খুলনা",
+    "adjustment": 3
+  },
+  {
+    "en": "Kishoreganj",
+    "bn": "কিশোরগঞ্জ",
+    "adjustment": -2
+  },
+  {
+    "en": "Kurigram",
+    "bn": "কুড়িগ্রাম",
+    "adjustment": 6
+  },
+  {
+    "en": "Kushtia",
+    "bn": "কুষ্টিয়া",
+    "adjustment": 5
+  },
+  {
+    "en": "Lakshmipur",
+    "bn": "লক্ষীপুর",
+    "adjustment": -2
+  },
+  {
+    "en": "Lalmonirhat",
+    "bn": "লালমনিরহাট",
+    "adjustment": 7
+  },
+  {
+    "en": "Madaripur",
+    "bn": "মাদারীপুর",
+    "adjustment": 1
+  },
+  {
+    "en": "Magura",
+    "bn": "মাগুরা",
+    "adjustment": 4
+  },
+  {
+    "en": "Manikganj",
+    "bn": "মানিকগঞ্জ",
+    "adjustment": 2
+  },
+  {
+    "en": "Meherpur",
+    "bn": "মেহেরপুর",
+    "adjustment": 7
+  },
+  {
+    "en": "Moulvibazar",
+    "bn": "মৌলভীবাজার",
+    "adjustment": -6
+  },
+  {
+    "en": "Munshiganj",
+    "bn": "মুন্সীগঞ্জ",
+    "adjustment": -1
+  },
+  {
+    "en": "Mymensingh",
+    "bn": "ময়মনসিংহ",
+    "adjustment": 2
+  },
+  {
+    "en": "Naogaon",
+    "bn": "নওগাঁ",
+    "adjustment": 8
+  },
+  {
+    "en": "Narail",
+    "bn": "নড়াইল",
+    "adjustment": 3
+  },
+  {
+    "en": "Narayanganj",
+    "bn": "নারায়ণগঞ্জ",
+    "adjustment": -1
+  },
+  {
+    "en": "Narsingdi",
+    "bn": "নরসিংদী",
+    "adjustment": -1
+  },
+  {
+    "en": "Natore",
+    "bn": "নাটোর",
+    "adjustment": 0
+  },
+  {
+    "en": "Chapainawabganj",
+    "bn": "চাপাইনবাবগঞ্জ",
+    "adjustment": 8
+  },
+  {
+    "en": "Netrakona",
+    "bn": "নেত্রকোনা",
+    "adjustment": -3
+  },
+  {
+    "en": "Nilphamari",
+    "bn": "নীলফামারী",
+    "adjustment": 6
+  },
+  {
+    "en": "Noakhali",
+    "bn": "নোয়াখালী",
+    "adjustment": -4
+  },
+  {
+    "en": "Pabna",
+    "bn": "পাবনা",
+    "adjustment": 4
+  },
+  {
+    "en": "Panchagarh",
+    "bn": "পঞ্চগড়",
+    "adjustment": 9
+  },
+  {
+    "en": "Patuakhali",
+    "bn": "পটুয়াখালী",
+    "adjustment": -2
+  },
+  {
+    "en": "Pirojpur",
+    "bn": "পিরোজপুর",
+    "adjustment": 1
+  },
+  {
+    "en": "Rajbari",
+    "bn": "রাজবাড়ী",
+    "adjustment": 4
+  },
+  {
+    "en": "Rajshahi",
+    "bn": "রাজশাহী",
+    "adjustment": 7
+  },
+  {
+    "en": "Rangamati",
+    "bn": "রাঙ্গামাটি",
+    "adjustment": -7
+  },
+  {
+    "en": "Rangpur",
+    "bn": "রংপুর",
+    "adjustment": 5
+  },
+  {
+    "en": "Satkhira",
+    "bn": "সাতক্ষিরা",
+    "adjustment": 5
+  },
+  {
+    "en": "Shariatpur",
+    "bn": "শরীয়তপুর",
+    "adjustment": 1
+  },
+  {
+    "en": "Sherpur",
+    "bn": "শেরপুর",
+    "adjustment": 2
+  },
+  {
+    "en": "Sirajganj",
+    "bn": "সিরাজগঞ্জ",
+    "adjustment": 3
+  },
+  {
+    "en": "Sunamganj",
+    "bn": "সুনামগঞ্জ",
+    "adjustment": -4
+  },
+  {
+    "en": "Sylhet",
+    "bn": "সিলেট",
+    "adjustment": -6
+  },
+  {
+    "en": "Tangail",
+    "bn": "টাঙ্গাইল",
+    "adjustment": 2
+  },
+  {
+    "en": "Thakurgaon",
+    "bn": "ঠাকুরগাঁও",
+    "adjustment": 9
+  }
+]
