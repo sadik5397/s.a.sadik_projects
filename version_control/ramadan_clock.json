@@ -1,9 +1,9 @@
 {
-    "code" : 200,
+  "code" : 200,
 	"statusCode": 200,
 
-	"app-version" : "1.26.1",
-	"latestAppVersion": "1.26.1",
+	"app-version" : "1.0.11",
+	"latestAppVersion": "1.0.11",
 	"forceUpdate": false,
 	
 	"update-notice" : "New Update Available: Ramadan 2026",
@@ -12,5 +12,5 @@
     	"Major Buig Fixes"
   	],
 	
-	"announcement" : "Ramadan 2026 version in review\non Google Play Store"
+	"announcement" : ""
 }
