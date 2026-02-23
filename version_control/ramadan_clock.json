@@ -2,9 +2,9 @@
 	"code" : 200,
 	"statusCode": 200,
 
-	"app-version" : "1.0.11",
-	"latestAppVersion": "1.0.11",
-	"forceUpdate": false,
+	"app-version" : "1.26.2",
+	"latestAppVersion": "1.26.2",
+	"forceUpdate": true,
 	
 	"update-notice" : "New Update Available: Ramadan 2026",
 	"updateNotice": "New Update Available: Ramadan 2026",
