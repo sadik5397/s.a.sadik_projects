@@ -350,5 +350,16 @@
     "sahriMin": 47,
     "iftarHr": 6,
     "iftarMin": 11
+  },
+  {
+    "ramadan": 32,
+    "date": "22 March",
+    "dateDay": 22,
+    "dateMonth": 3,
+    "dateYear": 2026,
+    "sahriHr": 4,
+    "sahriMin": 47,
+    "iftarHr": 6,
+    "iftarMin": 11
   }
 ]
