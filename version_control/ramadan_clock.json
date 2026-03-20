@@ -6,11 +6,11 @@
 	"latestAppVersion": "1.26.2",
 	"forceUpdate": true,
 	
-	"update-notice" : "৩০তম রোজা",
-	"updateNotice": "৩০তম রোজা",
+	"update-notice" : "আজ ৩০তম রমজান",
+	"updateNotice": "আজ ৩০তম রমজান",
   	"whatsNew": [
     	"Major Buig Fixes"
   	],
 	
-	"announcement" : "ঢাকা ও পার্শ্ববর্তী এলাকার সময় অনুযায়ী আজকের তার শুরুর সময় 06:11 PM"
+	"announcement" : "ঢাকা ও পার্শ্ববর্তী এলাকার সময় অনুযায়ী আজকের ইফতার শুরুর সন্ধ্যা 06:11 PM\nঅ্যাপে টাইম কাউন্টার শো না করতে পারায় দুঃখিত"
 }
