@@ -2,16 +2,19 @@
   {
     "user": "sadik5397@gmail.com",
     "active": true,
+    "message": "Thanks for Subscribing!",
     "constituencies": "001,002,003,004,005"
   },
   {
     "user": "sadikdesk@gmail.com",
     "active": false,
+    "message": "Your subscription has been cancelled.",
     "constituencies": "001,002,003,004,005"
   },
   {
     "user": "audiolauncher@gmail.com",
     "active": true,
+    "message": "Thanks for Subscribing!",
     "constituencies": "001,189,190"
   }
 ]
