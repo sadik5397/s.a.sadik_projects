@@ -8,5 +8,10 @@
     "user": "sadikdesk@gmail.com",
     "active": false,
     "constituencies": "001,002,003,004,005"
+  },
+  {
+    "user": "audiolauncher@gmail.com",
+    "active": true,
+    "constituencies": "001,189,190"
   }
 ]
