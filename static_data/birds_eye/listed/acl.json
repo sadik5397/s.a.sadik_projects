@@ -1,5 +1,11 @@
 [
   {
+    "user": "demo@birdseye.app",
+    "active": true,
+    "message": "Demo Account : demo@birdseye.app",
+    "constituencies": "201,202,203,204,205"
+  },
+  {
     "user": "sadik5397@gmail.com",
     "active": true,
     "message": "Demo Account",
