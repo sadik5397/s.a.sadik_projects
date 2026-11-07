@@ -1,0 +1,25 @@
+{
+  "statusCode": 200,
+  "latestAppVersion": "1.0.66",
+  "forceUpdate": true,
+  "showElectionResult": true,
+  "showOverviewMap": true,
+  "showElectionService": false,
+  "allowVoterListPublic": false,
+  "updateNotice": "New Update Available: Please update to the latest version",
+  "bannerImg": "https://app.bdbirdseye.org/meta.png",
+  "whatsNew": [
+    "🗒️ GPS Based Election Results",
+    "🗒️ Election Realitime Results is Now LIVE",
+    "🚀 50% faster (reduced API calls)",
+    "🎯 100% accurate data display",
+    "✨ Clean architecture with proper separation",
+    "💪 Production ready"
+  ],
+  "submit_latestAppVersion": "1.0.65",
+  "submit_forceUpdate": true,
+  "submit_updateNotice": "New Update Available: Please update to the latest version",
+  "submit_whatsNew": [
+    "More optimized and memory efficient."
+  ]
+}
