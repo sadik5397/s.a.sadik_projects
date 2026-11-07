@@ -8,6 +8,7 @@
   "mobileAppAndroid": "https://play.google.com/store/apps/details?id=com.sadikwork.betterscreentime",
   "tvAppAndroid": "https://play.google.com/store/apps/details?id=com.sadikwork.betterscreentimeTv",
   "mobileAppIos": "https://betterscreentime.sadik.work/ios",
+  "windowsApp": "https://betterscreentime.sadik.work/betterscreentime.msi",
   "webApp": "https://app.betterscreentime.sadik.work",
-  "parentAccessWebPortal": "https://parent.betterscreentime.sadik.work",
+  "parentAccessWebPortal": "https://parent.betterscreentime.sadik.work"
 }
