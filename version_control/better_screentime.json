@@ -2,7 +2,7 @@
   "statusCode": 200,
   "mobileAppLatestAppVersion": "1.0.10",
   "tvAppLatestAppVersion": "1.0.2",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "showAdvertise": true,
   "website": "https://betterscreentime.sadik.work",
   "mobileAppAndroid": "https://play.google.com/store/apps/details?id=com.sadikwork.betterscreentime",
