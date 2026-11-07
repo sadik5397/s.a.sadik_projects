@@ -1,6 +1,6 @@
 {
   "statusCode": 200,
-  "mobileAppLatestAppVersion": "1.0.9",
+  "mobileAppLatestAppVersion": "1.0.10",
   "tvAppLatestAppVersion": "1.0.2",
   "forceUpdate": false,
   "showAdvertise": true,
