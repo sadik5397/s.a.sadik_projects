@@ -7,7 +7,7 @@
   "website": "https://betterscreentime.sadik.work",
   "mobileAppAndroid": "https://play.google.com/store/apps/details?id=com.sadikwork.betterscreentime",
   "tvAppAndroid": "https://play.google.com/store/apps/details?id=com.sadikwork.betterscreentimeTv",
+  "mobileAppIos": "https://betterscreentime.sadik.work/ios",
   "webApp": "https://app.betterscreentime.sadik.work",
   "parentAccessWebPortal": "https://parent.betterscreentime.sadik.work",
-  "mobileAppIos": true,
 }
