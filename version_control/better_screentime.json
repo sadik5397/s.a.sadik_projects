@@ -1,25 +1,13 @@
 {
   "statusCode": 200,
-  "latestAppVersion": "1.0.66",
-  "forceUpdate": true,
-  "showElectionResult": true,
-  "showOverviewMap": true,
-  "showElectionService": false,
-  "allowVoterListPublic": false,
-  "updateNotice": "New Update Available: Please update to the latest version",
-  "bannerImg": "https://app.bdbirdseye.org/meta.png",
-  "whatsNew": [
-    "🗒️ GPS Based Election Results",
-    "🗒️ Election Realitime Results is Now LIVE",
-    "🚀 50% faster (reduced API calls)",
-    "🎯 100% accurate data display",
-    "✨ Clean architecture with proper separation",
-    "💪 Production ready"
-  ],
-  "submit_latestAppVersion": "1.0.65",
-  "submit_forceUpdate": true,
-  "submit_updateNotice": "New Update Available: Please update to the latest version",
-  "submit_whatsNew": [
-    "More optimized and memory efficient."
-  ]
+  "mobileAppLatestAppVersion": "1.0.9",
+  "tvAppLatestAppVersion": "1.0.2",
+  "forceUpdate": false,
+  "showAdvertise": true,
+  "website": "https://betterscreentime.sadik.work",
+  "mobileAppAndroid": "https://play.google.com/store/apps/details?id=com.sadikwork.betterscreentime",
+  "tvAppAndroid": "https://play.google.com/store/apps/details?id=com.sadikwork.betterscreentimeTv",
+  "webApp": "https://app.betterscreentime.sadik.work",
+  "parentAccessWebPortal": "https://parent.betterscreentime.sadik.work",
+  "mobileAppIos": true,
 }
